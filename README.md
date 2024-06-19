@@ -4,6 +4,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ojasvagupta/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0015-3sum](https://github.com/ojasvagupta/Leetcode/tree/master/0015-3sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ojasvagupta/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ojasvagupta/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 
 
 # Two Pointers
@@ -42,3 +43,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ojasvagupta/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ojasvagupta/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
