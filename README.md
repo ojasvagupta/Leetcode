@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ojasvagupta/Leetcode/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/ojasvagupta/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 # Linked List
 |  |
 | ------- |
@@ -55,3 +56,15 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ojasvagupta/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+# Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ojasvagupta/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+# Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ojasvagupta/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+# Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ojasvagupta/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
