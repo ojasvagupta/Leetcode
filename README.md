@@ -7,6 +7,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ojasvagupta/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ojasvagupta/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1675-magnetic-force-between-two-balls](https://github.com/ojasvagupta/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
+| [1138-grumpy-bookstore-owner](https://github.com/ojasvagupta/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 
 
 # Two Pointers
@@ -74,3 +75,7 @@
 |  |
 | ------- |
 | [1675-magnetic-force-between-two-balls](https://github.com/ojasvagupta/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
+# Sliding Window
+|  |
+| ------- |
+| [1138-grumpy-bookstore-owner](https://github.com/ojasvagupta/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
