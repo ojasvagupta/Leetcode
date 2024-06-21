@@ -11,6 +11,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ojasvagupta/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0502-ipo](https://github.com/ojasvagupta/Leetcode/tree/master/0502-ipo) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ojasvagupta/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0228-summary-ranges](https://github.com/ojasvagupta/Leetcode/tree/master/0228-summary-ranges) |
 
 
 # Two Pointers
