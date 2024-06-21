@@ -8,6 +8,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ojasvagupta/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1675-magnetic-force-between-two-balls](https://github.com/ojasvagupta/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1138-grumpy-bookstore-owner](https://github.com/ojasvagupta/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ojasvagupta/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 
 
 # Two Pointers
@@ -19,6 +20,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ojasvagupta/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/ojasvagupta/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ojasvagupta/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ojasvagupta/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 # String
 |  |
 | ------- |
@@ -74,6 +76,7 @@
 # Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ojasvagupta/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1675-magnetic-force-between-two-balls](https://github.com/ojasvagupta/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 # Sliding Window
 |  |
