@@ -9,6 +9,7 @@
 | [1675-magnetic-force-between-two-balls](https://github.com/ojasvagupta/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1138-grumpy-bookstore-owner](https://github.com/ojasvagupta/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ojasvagupta/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0502-ipo](https://github.com/ojasvagupta/Leetcode/tree/master/0502-ipo) |
 
 
 # Two Pointers
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ojasvagupta/Leetcode/tree/master/0015-3sum) |
+| [0502-ipo](https://github.com/ojasvagupta/Leetcode/tree/master/0502-ipo) |
 | [1675-magnetic-force-between-two-balls](https://github.com/ojasvagupta/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 # Stack
 |  |
@@ -63,6 +65,7 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ojasvagupta/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0502-ipo](https://github.com/ojasvagupta/Leetcode/tree/master/0502-ipo) |
 # Tree
 |  |
 | ------- |
@@ -88,3 +91,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ojasvagupta/Leetcode/tree/master/0141-linked-list-cycle) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [0502-ipo](https://github.com/ojasvagupta/Leetcode/tree/master/0502-ipo) |
