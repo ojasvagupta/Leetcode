@@ -34,6 +34,7 @@
 | [0058-length-of-last-word](https://github.com/ojasvagupta/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/ojasvagupta/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ojasvagupta/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0383-ransom-note](https://github.com/ojasvagupta/Leetcode/tree/master/0383-ransom-note) |
 # Trie
 |  |
 | ------- |
@@ -98,6 +99,7 @@
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ojasvagupta/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/ojasvagupta/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0383-ransom-note](https://github.com/ojasvagupta/Leetcode/tree/master/0383-ransom-note) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ojasvagupta/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 # Heap (Priority Queue)
 |  |
@@ -111,3 +113,7 @@
 |  |
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/ojasvagupta/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+# Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/ojasvagupta/Leetcode/tree/master/0383-ransom-note) |
