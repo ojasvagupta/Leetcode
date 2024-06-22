@@ -13,6 +13,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ojasvagupta/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0228-summary-ranges](https://github.com/ojasvagupta/Leetcode/tree/master/0228-summary-ranges) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ojasvagupta/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [0053-maximum-subarray](https://github.com/ojasvagupta/Leetcode/tree/master/0053-maximum-subarray) |
 
 
 # Two Pointers
@@ -63,6 +64,7 @@
 # Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ojasvagupta/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ojasvagupta/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ojasvagupta/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 # Greedy
@@ -108,6 +110,7 @@
 # Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ojasvagupta/Leetcode/tree/master/0053-maximum-subarray) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ojasvagupta/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 # Math
 |  |
