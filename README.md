@@ -12,6 +12,7 @@
 | [0502-ipo](https://github.com/ojasvagupta/Leetcode/tree/master/0502-ipo) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ojasvagupta/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0228-summary-ranges](https://github.com/ojasvagupta/Leetcode/tree/master/0228-summary-ranges) |
+| [1370-count-number-of-nice-subarrays](https://github.com/ojasvagupta/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 
 
 # Two Pointers
@@ -91,11 +92,13 @@
 |  |
 | ------- |
 | [1138-grumpy-bookstore-owner](https://github.com/ojasvagupta/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
+| [1370-count-number-of-nice-subarrays](https://github.com/ojasvagupta/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 # Hash Table
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ojasvagupta/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/ojasvagupta/Leetcode/tree/master/0141-linked-list-cycle) |
+| [1370-count-number-of-nice-subarrays](https://github.com/ojasvagupta/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 # Heap (Priority Queue)
 |  |
 | ------- |
@@ -104,3 +107,7 @@
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ojasvagupta/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+# Math
+|  |
+| ------- |
+| [1370-count-number-of-nice-subarrays](https://github.com/ojasvagupta/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
