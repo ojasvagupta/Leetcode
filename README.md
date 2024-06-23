@@ -14,11 +14,13 @@
 | [0228-summary-ranges](https://github.com/ojasvagupta/Leetcode/tree/master/0228-summary-ranges) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ojasvagupta/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [0053-maximum-subarray](https://github.com/ojasvagupta/Leetcode/tree/master/0053-maximum-subarray) |
+| [0011-container-with-most-water](https://github.com/ojasvagupta/Leetcode/tree/master/0011-container-with-most-water) |
 
 
 # Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ojasvagupta/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ojasvagupta/Leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ojasvagupta/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ojasvagupta/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -73,6 +75,7 @@
 # Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ojasvagupta/Leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ojasvagupta/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0502-ipo](https://github.com/ojasvagupta/Leetcode/tree/master/0502-ipo) |
 # Tree
