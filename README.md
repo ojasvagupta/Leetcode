@@ -121,6 +121,7 @@
 # Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/ojasvagupta/Leetcode/tree/master/0009-palindrome-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ojasvagupta/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 # Counting
 |  |
