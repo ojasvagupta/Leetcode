@@ -86,15 +86,18 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ojasvagupta/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ojasvagupta/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ojasvagupta/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 # Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ojasvagupta/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ojasvagupta/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 # Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ojasvagupta/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ojasvagupta/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ojasvagupta/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 # Binary Search
 |  |
@@ -155,3 +158,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ojasvagupta/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+# Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ojasvagupta/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
