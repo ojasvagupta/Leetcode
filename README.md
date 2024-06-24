@@ -62,12 +62,14 @@
 # Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ojasvagupta/Leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ojasvagupta/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/ojasvagupta/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/ojasvagupta/Leetcode/tree/master/0141-linked-list-cycle) |
 # Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ojasvagupta/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ojasvagupta/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 # Dynamic Programming
 |  |
@@ -132,6 +134,7 @@
 # Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ojasvagupta/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/ojasvagupta/Leetcode/tree/master/0009-palindrome-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ojasvagupta/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 # Counting
