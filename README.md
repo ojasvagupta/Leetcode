@@ -16,6 +16,7 @@
 | [0053-maximum-subarray](https://github.com/ojasvagupta/Leetcode/tree/master/0053-maximum-subarray) |
 | [0011-container-with-most-water](https://github.com/ojasvagupta/Leetcode/tree/master/0011-container-with-most-water) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ojasvagupta/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [0209-minimum-size-subarray-sum](https://github.com/ojasvagupta/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 
 
 # Two Pointers
@@ -99,10 +100,12 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ojasvagupta/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/ojasvagupta/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1675-magnetic-force-between-two-balls](https://github.com/ojasvagupta/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 # Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ojasvagupta/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1138-grumpy-bookstore-owner](https://github.com/ojasvagupta/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ojasvagupta/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ojasvagupta/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -148,3 +151,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ojasvagupta/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+# Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ojasvagupta/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
