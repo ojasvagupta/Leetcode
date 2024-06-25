@@ -52,6 +52,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ojasvagupta/Leetcode/tree/master/0015-3sum) |
+| [0242-valid-anagram](https://github.com/ojasvagupta/Leetcode/tree/master/0242-valid-anagram) |
 | [0502-ipo](https://github.com/ojasvagupta/Leetcode/tree/master/0502-ipo) |
 | [1675-magnetic-force-between-two-balls](https://github.com/ojasvagupta/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 # Stack
@@ -126,6 +127,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ojasvagupta/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/ojasvagupta/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/ojasvagupta/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/ojasvagupta/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ojasvagupta/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/ojasvagupta/Leetcode/tree/master/0383-ransom-note) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ojasvagupta/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -166,6 +168,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ojasvagupta/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ojasvagupta/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/ojasvagupta/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ojasvagupta/Leetcode/tree/master/0290-word-pattern) |
 # Prefix Sum
 |  |
