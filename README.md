@@ -125,6 +125,7 @@
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ojasvagupta/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/ojasvagupta/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0205-isomorphic-strings](https://github.com/ojasvagupta/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/ojasvagupta/Leetcode/tree/master/0383-ransom-note) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ojasvagupta/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 # Heap (Priority Queue)
@@ -163,6 +164,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ojasvagupta/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/ojasvagupta/Leetcode/tree/master/0205-isomorphic-strings) |
 # Prefix Sum
 |  |
 | ------- |
