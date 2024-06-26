@@ -154,6 +154,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/ojasvagupta/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/ojasvagupta/Leetcode/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/ojasvagupta/Leetcode/tree/master/0069-sqrtx) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ojasvagupta/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 # Counting
 |  |
@@ -191,5 +192,6 @@
 # Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/ojasvagupta/Leetcode/tree/master/0069-sqrtx) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ojasvagupta/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/ojasvagupta/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
