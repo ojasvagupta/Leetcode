@@ -17,6 +17,7 @@
 | [0011-container-with-most-water](https://github.com/ojasvagupta/Leetcode/tree/master/0011-container-with-most-water) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ojasvagupta/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [0209-minimum-size-subarray-sum](https://github.com/ojasvagupta/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0049-group-anagrams](https://github.com/ojasvagupta/Leetcode/tree/master/0049-group-anagrams) |
 
 
 # Two Pointers
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ojasvagupta/Leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/ojasvagupta/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/ojasvagupta/Leetcode/tree/master/0242-valid-anagram) |
 | [0502-ipo](https://github.com/ojasvagupta/Leetcode/tree/master/0502-ipo) |
 | [1675-magnetic-force-between-two-balls](https://github.com/ojasvagupta/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
@@ -128,6 +130,7 @@
 # Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ojasvagupta/Leetcode/tree/master/0049-group-anagrams) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ojasvagupta/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/ojasvagupta/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/ojasvagupta/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -172,6 +175,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ojasvagupta/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/ojasvagupta/Leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/ojasvagupta/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ojasvagupta/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ojasvagupta/Leetcode/tree/master/0290-word-pattern) |
