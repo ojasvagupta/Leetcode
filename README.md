@@ -85,6 +85,7 @@
 | [0011-container-with-most-water](https://github.com/ojasvagupta/Leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ojasvagupta/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0502-ipo](https://github.com/ojasvagupta/Leetcode/tree/master/0502-ipo) |
+| [1285-balance-a-binary-search-tree](https://github.com/ojasvagupta/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 # Tree
 |  |
 | ------- |
@@ -93,6 +94,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/ojasvagupta/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ojasvagupta/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ojasvagupta/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/ojasvagupta/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 # Depth-First Search
 |  |
 | ------- |
@@ -100,6 +102,7 @@
 | [0100-same-tree](https://github.com/ojasvagupta/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ojasvagupta/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ojasvagupta/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/ojasvagupta/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Tree
 |  |
 | ------- |
@@ -108,6 +111,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/ojasvagupta/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ojasvagupta/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ojasvagupta/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/ojasvagupta/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Search
 |  |
 | ------- |
@@ -141,6 +145,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/ojasvagupta/Leetcode/tree/master/0053-maximum-subarray) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ojasvagupta/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [1285-balance-a-binary-search-tree](https://github.com/ojasvagupta/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 # Math
 |  |
 | ------- |
@@ -183,3 +188,4 @@
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ojasvagupta/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/ojasvagupta/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
