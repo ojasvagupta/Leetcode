@@ -98,6 +98,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/ojasvagupta/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ojasvagupta/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ojasvagupta/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/ojasvagupta/Leetcode/tree/master/0226-invert-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ojasvagupta/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ojasvagupta/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/ojasvagupta/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
@@ -107,6 +108,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/ojasvagupta/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ojasvagupta/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ojasvagupta/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/ojasvagupta/Leetcode/tree/master/0226-invert-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ojasvagupta/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ojasvagupta/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/ojasvagupta/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
@@ -118,6 +120,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/ojasvagupta/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ojasvagupta/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ojasvagupta/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/ojasvagupta/Leetcode/tree/master/0226-invert-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ojasvagupta/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ojasvagupta/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/ojasvagupta/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
@@ -198,6 +201,7 @@
 | [0100-same-tree](https://github.com/ojasvagupta/Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ojasvagupta/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ojasvagupta/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/ojasvagupta/Leetcode/tree/master/0226-invert-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ojasvagupta/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 # Binary Search Tree
 |  |
