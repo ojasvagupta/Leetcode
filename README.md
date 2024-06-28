@@ -57,6 +57,7 @@
 | [0242-valid-anagram](https://github.com/ojasvagupta/Leetcode/tree/master/0242-valid-anagram) |
 | [0502-ipo](https://github.com/ojasvagupta/Leetcode/tree/master/0502-ipo) |
 | [1675-magnetic-force-between-two-balls](https://github.com/ojasvagupta/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
+| [2379-maximum-total-importance-of-roads](https://github.com/ojasvagupta/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 # Stack
 |  |
 | ------- |
@@ -88,6 +89,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ojasvagupta/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0502-ipo](https://github.com/ojasvagupta/Leetcode/tree/master/0502-ipo) |
 | [1285-balance-a-binary-search-tree](https://github.com/ojasvagupta/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
+| [2379-maximum-total-importance-of-roads](https://github.com/ojasvagupta/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 # Tree
 |  |
 | ------- |
@@ -148,6 +150,7 @@
 | ------- |
 | [0502-ipo](https://github.com/ojasvagupta/Leetcode/tree/master/0502-ipo) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ojasvagupta/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2379-maximum-total-importance-of-roads](https://github.com/ojasvagupta/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -202,3 +205,7 @@
 | [0069-sqrtx](https://github.com/ojasvagupta/Leetcode/tree/master/0069-sqrtx) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ojasvagupta/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/ojasvagupta/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
+# Graph
+|  |
+| ------- |
+| [2379-maximum-total-importance-of-roads](https://github.com/ojasvagupta/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
