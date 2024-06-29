@@ -234,9 +234,19 @@
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/ojasvagupta/Leetcode/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/ojasvagupta/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/ojasvagupta/Leetcode/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/ojasvagupta/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+## Depth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/ojasvagupta/Leetcode/tree/master/0112-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/ojasvagupta/Leetcode/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
