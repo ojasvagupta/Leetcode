@@ -213,3 +213,14 @@
 |  |
 | ------- |
 | [2379-maximum-total-importance-of-roads](https://github.com/ojasvagupta/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/ojasvagupta/Leetcode/tree/master/0071-simplify-path) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/ojasvagupta/Leetcode/tree/master/0071-simplify-path) |
+<!---LeetCode Topics End-->
