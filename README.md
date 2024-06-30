@@ -245,8 +245,18 @@
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/ojasvagupta/Leetcode/tree/master/0112-path-sum) |
+| [0133-clone-graph](https://github.com/ojasvagupta/Leetcode/tree/master/0133-clone-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/ojasvagupta/Leetcode/tree/master/0112-path-sum) |
+| [0133-clone-graph](https://github.com/ojasvagupta/Leetcode/tree/master/0133-clone-graph) |
+## Hash Table
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/ojasvagupta/Leetcode/tree/master/0133-clone-graph) |
+## Graph
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/ojasvagupta/Leetcode/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
