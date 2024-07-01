@@ -246,12 +246,14 @@
 | ------- |
 | [0112-path-sum](https://github.com/ojasvagupta/Leetcode/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/ojasvagupta/Leetcode/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/ojasvagupta/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ojasvagupta/Leetcode/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/ojasvagupta/Leetcode/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/ojasvagupta/Leetcode/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/ojasvagupta/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ojasvagupta/Leetcode/tree/master/0547-number-of-provinces) |
 ## Hash Table
 |  |
@@ -266,10 +268,16 @@
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ojasvagupta/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ojasvagupta/Leetcode/tree/master/0547-number-of-provinces) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/ojasvagupta/Leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ojasvagupta/Leetcode/tree/master/0200-number-of-islands) |
 | [1293-three-consecutive-odds](https://github.com/ojasvagupta/Leetcode/tree/master/1293-three-consecutive-odds) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/ojasvagupta/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
