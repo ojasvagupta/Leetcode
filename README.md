@@ -314,4 +314,9 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ojasvagupta/Leetcode/tree/master/0054-spiral-matrix) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/ojasvagupta/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+## Linked List
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/ojasvagupta/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
