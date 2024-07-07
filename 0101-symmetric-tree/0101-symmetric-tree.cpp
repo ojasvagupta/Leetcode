@@ -20,6 +20,10 @@ public:
         if (root1 == nullptr || root2 == nullptr) {
             return false;
         }
+        if(root1->val != root2->val)
+        {
+            return false;
+        }
 
         return (root1->val == root2->val) && check(root1->left, root2->right) &&
                check(root1->right, root2->left);
