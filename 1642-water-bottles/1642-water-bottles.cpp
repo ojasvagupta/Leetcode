@@ -5,7 +5,7 @@ public:
         int left = empty % numExchange;
         int use = empty / numExchange;
         int sum = numBottles;
-        while (left != empty) {
+        while (use!=0) {
             sum = sum + use;
             empty = left + use;
             left = empty % numExchange;
