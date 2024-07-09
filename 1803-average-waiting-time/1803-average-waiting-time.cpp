@@ -10,7 +10,7 @@ public:
                 wait = wait + j - customers[i][0];
             }
             if (customers[i][0] > j) {
-                j = customers[i][0]+ customers[i][1] ;
+                j = customers[i][0] + customers[i][1];
                 wait = wait + customers[i][1];
             }
         }
