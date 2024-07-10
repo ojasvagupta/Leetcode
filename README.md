@@ -219,10 +219,12 @@
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/ojasvagupta/Leetcode/tree/master/0071-simplify-path) |
+| [1720-crawler-log-folder](https://github.com/ojasvagupta/Leetcode/tree/master/1720-crawler-log-folder) |
 ## Stack
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/ojasvagupta/Leetcode/tree/master/0071-simplify-path) |
+| [1720-crawler-log-folder](https://github.com/ojasvagupta/Leetcode/tree/master/1720-crawler-log-folder) |
 ## Binary Search
 |  |
 | ------- |
@@ -300,6 +302,7 @@
 | [1293-three-consecutive-odds](https://github.com/ojasvagupta/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1380-number-of-closed-islands](https://github.com/ojasvagupta/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ojasvagupta/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1720-crawler-log-folder](https://github.com/ojasvagupta/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/ojasvagupta/Leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ojasvagupta/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Matrix
