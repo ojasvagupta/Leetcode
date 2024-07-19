@@ -369,6 +369,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ojasvagupta/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ojasvagupta/Leetcode/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/ojasvagupta/Leetcode/tree/master/1013-fibonacci-number) |
 | [1642-water-bottles](https://github.com/ojasvagupta/Leetcode/tree/master/1642-water-bottles) |
@@ -390,10 +391,12 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ojasvagupta/Leetcode/tree/master/0070-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/ojasvagupta/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/ojasvagupta/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ojasvagupta/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/ojasvagupta/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
