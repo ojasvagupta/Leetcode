@@ -3,24 +3,32 @@ public:
     vector<int> luckyNumbers(vector<vector<int>>& matrix) {
 
         vector<int> res;
-        for (int i = 0; i < matrix.size(); i++) {
-            int temp1 = INT_MAX;
-            int temp2 = INT_MIN;
-            int check = 0;
-            for (int j = 0; j < matrix[i].size(); j++) {
-                temp1 = min(temp1, matrix[i][j]);
+        unordered_map<int,vector<int>> mp;
+        for(int i=0;i<matrix.size();i++)
+        {
+            int temp=INT_MAX;
+            for(int j=0;j<matrix[i].size();j++)
+            {
+                temp=min(temp,matrix[i][j]);
             }
-            for (int j = 0; j < matrix[i].size(); j++) {
-
-                if (temp1 == matrix[i][j]) {
-                    check = j;
+            for(int j=0;j<matrix[i].size();j++)
+            {
+                if(temp==matrix[i][j])
+                {
+                    mp[temp]={i,j};
                 }
             }
-            for (int j = 0; j < matrix.size(); j++) {
-                temp2 = max(temp2, matrix[j][check]);
+        }
+        for(int i=0;i<matrix[0].size();i++)
+        {
+            int temp=INT_MIN;
+            for(int j=0;j<matrix.size();j++)
+            {
+                temp=max(temp,matrix[j][i]);
             }
-            if (temp1 == temp2) {
-                res.push_back(temp1);
+            if(mp.count(temp))
+            {
+                res.push_back(temp);
             }
         }
         return res;
