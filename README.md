@@ -318,6 +318,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/ojasvagupta/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/ojasvagupta/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1380-number-of-closed-islands](https://github.com/ojasvagupta/Leetcode/tree/master/1380-number-of-closed-islands) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/ojasvagupta/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ojasvagupta/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/ojasvagupta/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/ojasvagupta/Leetcode/tree/master/1803-average-waiting-time) |
@@ -332,6 +333,7 @@
 | [0200-number-of-islands](https://github.com/ojasvagupta/Leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/ojasvagupta/Leetcode/tree/master/0733-flood-fill) |
 | [1380-number-of-closed-islands](https://github.com/ojasvagupta/Leetcode/tree/master/1380-number-of-closed-islands) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/ojasvagupta/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Prefix Sum
 |  |
 | ------- |
