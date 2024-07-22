@@ -221,6 +221,7 @@
 | [0071-simplify-path](https://github.com/ojasvagupta/Leetcode/tree/master/0071-simplify-path) |
 | [1720-crawler-log-folder](https://github.com/ojasvagupta/Leetcode/tree/master/1720-crawler-log-folder) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ojasvagupta/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2502-sort-the-people](https://github.com/ojasvagupta/Leetcode/tree/master/2502-sort-the-people) |
 ## Stack
 |  |
 | ------- |
@@ -289,6 +290,7 @@
 | [0133-clone-graph](https://github.com/ojasvagupta/Leetcode/tree/master/0133-clone-graph) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ojasvagupta/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ojasvagupta/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2502-sort-the-people](https://github.com/ojasvagupta/Leetcode/tree/master/2502-sort-the-people) |
 ## Graph
 |  |
 | ------- |
@@ -325,6 +327,7 @@
 | [1803-average-waiting-time](https://github.com/ojasvagupta/Leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ojasvagupta/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ojasvagupta/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2502-sort-the-people](https://github.com/ojasvagupta/Leetcode/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/ojasvagupta/Leetcode/tree/master/2846-robot-collisions) |
 ## Matrix
 |  |
@@ -349,6 +352,7 @@
 |  |
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ojasvagupta/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2502-sort-the-people](https://github.com/ojasvagupta/Leetcode/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/ojasvagupta/Leetcode/tree/master/2846-robot-collisions) |
 ## Simulation
 |  |
