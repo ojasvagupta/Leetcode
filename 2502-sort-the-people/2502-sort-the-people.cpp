@@ -7,7 +7,7 @@ public:
         }
         sort(heights.begin(), heights.end());
         for (int i = heights.size() - 1; i >= 0; i--) {
-             names[heights.size()-i-1]=mp[heights[i]];
+            names[heights.size() - i - 1] = mp[heights[i]];
         }
         return names;
     }
