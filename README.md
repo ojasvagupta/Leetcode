@@ -298,6 +298,7 @@
 | [0133-clone-graph](https://github.com/ojasvagupta/Leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/ojasvagupta/Leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/ojasvagupta/Leetcode/tree/master/0547-number-of-provinces) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ojasvagupta/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/ojasvagupta/Leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 ## Union Find
 |  |
@@ -408,6 +409,7 @@
 | [0070-climbing-stairs](https://github.com/ojasvagupta/Leetcode/tree/master/0070-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/ojasvagupta/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/ojasvagupta/Leetcode/tree/master/1013-fibonacci-number) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ojasvagupta/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Memoization
 |  |
 | ------- |
@@ -437,4 +439,8 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/ojasvagupta/Leetcode/tree/master/0948-sort-an-array) |
+## Shortest Path
+|  |
+| ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ojasvagupta/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 <!---LeetCode Topics End-->
