@@ -426,6 +426,7 @@
 | [0070-climbing-stairs](https://github.com/ojasvagupta/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ojasvagupta/Leetcode/tree/master/0189-rotate-array) |
 | [0264-ugly-number-ii](https://github.com/ojasvagupta/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0650-2-keys-keyboard](https://github.com/ojasvagupta/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/ojasvagupta/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/ojasvagupta/Leetcode/tree/master/1013-fibonacci-number) |
 | [1642-water-bottles](https://github.com/ojasvagupta/Leetcode/tree/master/1642-water-bottles) |
@@ -451,6 +452,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/ojasvagupta/Leetcode/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/ojasvagupta/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0650-2-keys-keyboard](https://github.com/ojasvagupta/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0747-min-cost-climbing-stairs](https://github.com/ojasvagupta/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/ojasvagupta/Leetcode/tree/master/1013-fibonacci-number) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ojasvagupta/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
