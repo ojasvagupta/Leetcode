@@ -245,6 +245,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/ojasvagupta/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0476-number-complement](https://github.com/ojasvagupta/Leetcode/tree/master/0476-number-complement) |
 ## Tree
 |  |
 | ------- |
