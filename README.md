@@ -233,6 +233,7 @@
 | ------- |
 | [0071-simplify-path](https://github.com/ojasvagupta/Leetcode/tree/master/0071-simplify-path) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ojasvagupta/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/ojasvagupta/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1720-crawler-log-folder](https://github.com/ojasvagupta/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ojasvagupta/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2846-robot-collisions](https://github.com/ojasvagupta/Leetcode/tree/master/2846-robot-collisions) |
@@ -255,6 +256,7 @@
 | [0112-path-sum](https://github.com/ojasvagupta/Leetcode/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ojasvagupta/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/ojasvagupta/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/ojasvagupta/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ojasvagupta/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ojasvagupta/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/ojasvagupta/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -284,6 +286,7 @@
 | [0207-course-schedule](https://github.com/ojasvagupta/Leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/ojasvagupta/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/ojasvagupta/Leetcode/tree/master/0733-flood-fill) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/ojasvagupta/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ojasvagupta/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1380-number-of-closed-islands](https://github.com/ojasvagupta/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/ojasvagupta/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
