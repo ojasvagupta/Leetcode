@@ -20,24 +20,18 @@ public:
 
 class Solution {
 public:
-void traverse(Node* root,vector<int>& v)
-{
-    if(root==nullptr)
-    {
-        return;
+    void traverse(Node* root, vector<int>& v) {
+        if (root == nullptr) {
+            return;
+        }
+        for (auto a : root->children) {
+            traverse(a, v);
+        }
+        v.push_back(root->val);
     }
-    for(auto a : root->children)
-    {
-        traverse(a,v);
-    }
-    v.push_back(root->val);
-
-}
     vector<int> postorder(Node* root) {
         vector<int> v;
-        traverse(root,v);
+        traverse(root, v);
         return v;
-        
-        
     }
 };
