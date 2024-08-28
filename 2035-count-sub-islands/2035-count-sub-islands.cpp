@@ -8,9 +8,9 @@ public:
         }
         vis[m][n] = true;
         set.push_back({m, n});
-        vector<vector<int>> v = {{1, 0}, {-1, 0}, {0, 1}, {0, -1}};
+        vector<pair<int,int>> v = {{1, 0}, {-1, 0}, {0, 1}, {0, -1}};
         for (auto a : v) {
-            countIslands(grid2, vis, m + a[0], n + a[1], set);
+            countIslands(grid2, vis, m + a.first, n + a.second, set);
         }
     }
     int countSubIslands(vector<vector<int>>& grid1,
