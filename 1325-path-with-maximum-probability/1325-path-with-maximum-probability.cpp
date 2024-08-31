@@ -1,6 +1,8 @@
 class Solution {
 public:
-    double maxProbability(int n, vector<vector<int>>& edges, vector<double>& succProb, int start_node, int end_node) {
+    double maxProbability(int n, vector<vector<int>>& edges,
+                          vector<double>& succProb, int start_node,
+                          int end_node) {
         unordered_map<int, vector<pair<int, double>>> mp;
         for (int i = 0; i < edges.size(); i++) {
             mp[edges[i][0]].push_back({edges[i][1], succProb[i]});
@@ -17,9 +19,10 @@ public:
             auto [prob, node] = pq.top();
             pq.pop();
 
-            if (node == end_node) return prob;
+            if (node == end_node)
+                return prob;
 
-            for (auto &[neighbor, edgeProb] : mp[node]) {
+            for (auto& [neighbor, edgeProb] : mp[node]) {
                 double newProb = prob * edgeProb;
                 if (newProb > maxProb[neighbor]) {
                     maxProb[neighbor] = newProb;
