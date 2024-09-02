@@ -12,11 +12,10 @@ public:
         k = k % sum;
 
         for (int i = 0; i < a; i++) {
-            if(k<chalk[i])
-            {
+            if (k < chalk[i]) {
                 return i;
             }
-            k=k-chalk[i];
+            k = k - chalk[i];
         }
 
         return res;
