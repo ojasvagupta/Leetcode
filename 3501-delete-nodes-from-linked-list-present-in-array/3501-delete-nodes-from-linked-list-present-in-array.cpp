@@ -1,34 +1,49 @@
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
 class Solution {
 public:
     ListNode* modifiedList(vector<int>& nums, ListNode* head) {
-        unordered_map<int, bool> mp;
-        for (int a : nums) {
-            mp[a] = true;
+        unordered_map<int,bool> mp;
+        for(auto a:nums)
+        {
+            mp[a]=true;
         }
-        
-        // Skip nodes from the head that are in the map
-        while (head != nullptr && mp.count(head->val)) {
-            head = head->next;
+        ListNode* root=head;
+        if(root->next==nullptr)
+        {
+            return head;
         }
-
-        // If the list becomes empty after skipping, return null
-        if (head == nullptr) {
-            return nullptr;
-        }
-        
-        ListNode* current = head;
-        
-        // Traverse the list and remove nodes whose values are in nums
-        while (current != nullptr && current->next != nullptr) {
-            if (mp.count(current->next->val)) {
-                // Skip the next node
-                current->next = current->next->next;
-            } else {
-                // Move to the next node
-                current = current->next;
+        ListNode* nxt=root->next;
+        ListNode* nxt2=nxt->next;
+        while(nxt2!=nullptr)
+        {
+            if(mp.count(nxt->val))
+            {
+                root->next=nxt2;
+                nxt=nxt2;
+                nxt2=nxt2->next;
             }
+           else{ root=nxt;
+            nxt=nxt2;
+            nxt2=nxt2->next;}
         }
-
+        if(mp.count(head->val))
+        {
+            head=head->next;
+        }
+        if(mp.count(nxt->val))
+        {
+            root->next=nullptr;
+        }
         return head;
+        
     }
 };
