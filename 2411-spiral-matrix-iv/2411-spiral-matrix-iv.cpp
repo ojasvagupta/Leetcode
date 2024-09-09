@@ -11,8 +11,7 @@
 class Solution {
 public:
     vector<vector<int>> spiralMatrix(int m, int n, ListNode* head) {
-        if(m==1 && n==1)
-        {
+        if (m == 1 && n == 1) {
             return {{head->val}};
         }
         vector<vector<int>> v(m, vector<int>(n, -1));
@@ -21,44 +20,33 @@ public:
         int top = 0;
         int bottom = m - 1;
         ListNode* root = head;
-        while (left<=right && top<=bottom && root != nullptr) {
-            
-            for (int i = left; i <= right; i++) {
-                 if (root == nullptr) {
-                    break;
-                }
+        while (left <= right && top <= bottom && root != nullptr) {
+
+            for (int i = left; i <= right && root != nullptr; i++) {
+                
                 v[top][i] = root->val;
                 root = root->next;
-               
-                
             }
             top++;
 
-            for (int i = top; i <= bottom; i++) {
-                if (root == nullptr) {
-                    break;
-                }
+            for (int i = top; i <= bottom && root != nullptr; i++) {
+                
                 v[i][right] = root->val;
                 root = root->next;
             }
             right--;
-            for (int i = right; i >= left; i--) {
-                if (root == nullptr) {
-                    break;
-                }
+            for (int i = right; i >= left && root != nullptr; i--) {
+                
                 v[bottom][i] = root->val;
                 root = root->next;
             }
             bottom--;
-            for (int i = bottom; i >= top; i--) {
-                if (root == nullptr) {
-                    break;
-                }
+            for (int i = bottom; i >= top && root != nullptr; i--) {
+                
                 v[i][left] = root->val;
                 root = root->next;
             }
             left++;
-            
         }
         return v;
     }
