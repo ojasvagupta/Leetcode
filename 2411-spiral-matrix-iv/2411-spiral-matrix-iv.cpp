@@ -23,26 +23,26 @@ public:
         while (left <= right && top <= bottom && root != nullptr) {
 
             for (int i = left; i <= right && root != nullptr; i++) {
-                
+
                 v[top][i] = root->val;
                 root = root->next;
             }
             top++;
 
             for (int i = top; i <= bottom && root != nullptr; i++) {
-                
+
                 v[i][right] = root->val;
                 root = root->next;
             }
             right--;
             for (int i = right; i >= left && root != nullptr; i--) {
-                
+
                 v[bottom][i] = root->val;
                 root = root->next;
             }
             bottom--;
             for (int i = bottom; i >= top && root != nullptr; i--) {
-                
+
                 v[i][left] = root->val;
                 root = root->next;
             }
