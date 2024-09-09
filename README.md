@@ -317,6 +317,7 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/ojasvagupta/Leetcode/tree/master/0133-clone-graph) |
+| [0202-happy-number](https://github.com/ojasvagupta/Leetcode/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/ojasvagupta/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0870-magic-squares-in-grid](https://github.com/ojasvagupta/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/ojasvagupta/Leetcode/tree/master/0906-walking-robot-simulation) |
@@ -469,6 +470,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/ojasvagupta/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ojasvagupta/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/ojasvagupta/Leetcode/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/ojasvagupta/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0564-find-the-closest-palindrome](https://github.com/ojasvagupta/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0650-2-keys-keyboard](https://github.com/ojasvagupta/Leetcode/tree/master/0650-2-keys-keyboard) |
@@ -483,6 +485,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/ojasvagupta/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/ojasvagupta/Leetcode/tree/master/0202-happy-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ojasvagupta/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ojasvagupta/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Recursion
