@@ -218,6 +218,7 @@
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ojasvagupta/Leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/ojasvagupta/Leetcode/tree/master/0071-simplify-path) |
 | [0564-find-the-closest-palindrome](https://github.com/ojasvagupta/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [1720-crawler-log-folder](https://github.com/ojasvagupta/Leetcode/tree/master/1720-crawler-log-folder) |
@@ -249,6 +250,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ojasvagupta/Leetcode/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/ojasvagupta/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0476-number-complement](https://github.com/ojasvagupta/Leetcode/tree/master/0476-number-complement) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ojasvagupta/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -455,6 +457,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ojasvagupta/Leetcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/ojasvagupta/Leetcode/tree/master/0067-add-binary) |
 | [0906-walking-robot-simulation](https://github.com/ojasvagupta/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/ojasvagupta/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/ojasvagupta/Leetcode/tree/master/1642-water-bottles) |
@@ -487,6 +490,7 @@
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ojasvagupta/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/ojasvagupta/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ojasvagupta/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ojasvagupta/Leetcode/tree/master/0202-happy-number) |
