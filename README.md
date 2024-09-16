@@ -220,6 +220,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/ojasvagupta/Leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/ojasvagupta/Leetcode/tree/master/0071-simplify-path) |
+| [0539-minimum-time-difference](https://github.com/ojasvagupta/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/ojasvagupta/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ojasvagupta/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1720-crawler-log-folder](https://github.com/ojasvagupta/Leetcode/tree/master/1720-crawler-log-folder) |
@@ -387,6 +388,7 @@
 | [0200-number-of-islands](https://github.com/ojasvagupta/Leetcode/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/ojasvagupta/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/ojasvagupta/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0539-minimum-time-difference](https://github.com/ojasvagupta/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ojasvagupta/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0733-flood-fill](https://github.com/ojasvagupta/Leetcode/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/ojasvagupta/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
@@ -460,6 +462,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0539-minimum-time-difference](https://github.com/ojasvagupta/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ojasvagupta/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0948-sort-an-array](https://github.com/ojasvagupta/Leetcode/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/ojasvagupta/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
@@ -513,6 +516,7 @@
 | [0189-rotate-array](https://github.com/ojasvagupta/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ojasvagupta/Leetcode/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/ojasvagupta/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0539-minimum-time-difference](https://github.com/ojasvagupta/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/ojasvagupta/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0650-2-keys-keyboard](https://github.com/ojasvagupta/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/ojasvagupta/Leetcode/tree/master/0870-magic-squares-in-grid) |
