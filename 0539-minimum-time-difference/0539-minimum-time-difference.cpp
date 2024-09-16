@@ -2,6 +2,10 @@ class Solution {
 public:
     int findMinDifference(vector<string>& timePoints) {
         vector<int> v;
+        if(timePoints.size()>1440)
+        {
+            return 0;
+        }
         for (int i = 0; i < timePoints.size(); i++) {
 
             string a = timePoints[i].substr(0, 2);
