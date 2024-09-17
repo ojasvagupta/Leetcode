@@ -238,6 +238,7 @@
 | ------- |
 | [0071-simplify-path](https://github.com/ojasvagupta/Leetcode/tree/master/0071-simplify-path) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ojasvagupta/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/ojasvagupta/Leetcode/tree/master/0155-min-stack) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ojasvagupta/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1720-crawler-log-folder](https://github.com/ojasvagupta/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ojasvagupta/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -616,6 +617,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/ojasvagupta/Leetcode/tree/master/0155-min-stack) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ojasvagupta/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
