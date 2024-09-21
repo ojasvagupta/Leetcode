@@ -319,6 +319,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/ojasvagupta/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/ojasvagupta/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ojasvagupta/Leetcode/tree/master/0207-course-schedule) |
+| [0386-lexicographical-numbers](https://github.com/ojasvagupta/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ojasvagupta/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/ojasvagupta/Leetcode/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ojasvagupta/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -686,4 +687,8 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/ojasvagupta/Leetcode/tree/master/0214-shortest-palindrome) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/ojasvagupta/Leetcode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
