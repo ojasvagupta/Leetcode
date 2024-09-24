@@ -1,5 +1,5 @@
 class TrieNode {
-    public:
+public:
     bool end;
     TrieNode* arr[10];
     TrieNode() {
@@ -13,7 +13,7 @@ class TrieNode {
 class Solution {
 public:
     void insert(string s, TrieNode* root) {
-        TrieNode* curr=root;
+        TrieNode* curr = root;
         for (int i = 0; i < s.size(); i++) {
             if (curr->arr[s[i] - '0'] == nullptr) {
                 curr->arr[s[i] - '0'] = new TrieNode();
@@ -26,9 +26,9 @@ public:
     }
     int lcp(string s, TrieNode* root) {
         int count = 0;
-        TrieNode* curr=root;
+        TrieNode* curr = root;
         for (int i = 0; i < s.size(); i++) {
-            if (curr->arr[s[i] - '0'] !=nullptr) {
+            if (curr->arr[s[i] - '0'] != nullptr) {
                 count++;
                 curr = curr->arr[s[i] - '0'];
             } else {
