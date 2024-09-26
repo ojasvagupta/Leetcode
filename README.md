@@ -256,6 +256,7 @@
 | [0035-search-insert-position](https://github.com/ojasvagupta/Leetcode/tree/master/0035-search-insert-position) |
 | [0222-count-complete-tree-nodes](https://github.com/ojasvagupta/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ojasvagupta/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0729-my-calendar-i](https://github.com/ojasvagupta/Leetcode/tree/master/0729-my-calendar-i) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ojasvagupta/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ojasvagupta/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Bit Manipulation
@@ -426,6 +427,7 @@
 | [0322-coin-change](https://github.com/ojasvagupta/Leetcode/tree/master/0322-coin-change) |
 | [0539-minimum-time-difference](https://github.com/ojasvagupta/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ojasvagupta/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0729-my-calendar-i](https://github.com/ojasvagupta/Leetcode/tree/master/0729-my-calendar-i) |
 | [0733-flood-fill](https://github.com/ojasvagupta/Leetcode/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/ojasvagupta/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0870-magic-squares-in-grid](https://github.com/ojasvagupta/Leetcode/tree/master/0870-magic-squares-in-grid) |
@@ -664,6 +666,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/ojasvagupta/Leetcode/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/ojasvagupta/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0729-my-calendar-i](https://github.com/ojasvagupta/Leetcode/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ojasvagupta/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -715,4 +718,12 @@
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/ojasvagupta/Leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ojasvagupta/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ojasvagupta/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/ojasvagupta/Leetcode/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/ojasvagupta/Leetcode/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
