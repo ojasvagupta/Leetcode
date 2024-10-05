@@ -227,6 +227,7 @@
 | [0214-shortest-palindrome](https://github.com/ojasvagupta/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0539-minimum-time-difference](https://github.com/ojasvagupta/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/ojasvagupta/Leetcode/tree/master/0564-find-the-closest-palindrome) |
+| [0567-permutation-in-string](https://github.com/ojasvagupta/Leetcode/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ojasvagupta/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ojasvagupta/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1720-crawler-log-folder](https://github.com/ojasvagupta/Leetcode/tree/master/1720-crawler-log-folder) |
@@ -374,6 +375,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/ojasvagupta/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/ojasvagupta/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/ojasvagupta/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0567-permutation-in-string](https://github.com/ojasvagupta/Leetcode/tree/master/0567-permutation-in-string) |
 | [0870-magic-squares-in-grid](https://github.com/ojasvagupta/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/ojasvagupta/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ojasvagupta/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -598,6 +600,7 @@
 | [0086-partition-list](https://github.com/ojasvagupta/Leetcode/tree/master/0086-partition-list) |
 | [0189-rotate-array](https://github.com/ojasvagupta/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ojasvagupta/Leetcode/tree/master/0202-happy-number) |
+| [0567-permutation-in-string](https://github.com/ojasvagupta/Leetcode/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ojasvagupta/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ojasvagupta/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ojasvagupta/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -720,6 +723,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ojasvagupta/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/ojasvagupta/Leetcode/tree/master/0567-permutation-in-string) |
 ## Brainteaser
 |  |
 | ------- |
