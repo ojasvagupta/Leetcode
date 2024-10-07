@@ -1,21 +1,21 @@
 class Solution {
 public:
     int minLength(string s) {
-        bool count = false;
-        int i = 0;
-        while (!count) {
-            if (s.substr(i, 2) == "AB" or s.substr(i, 2) == "CD") {
-                s = s.substr(0, i) + s.substr(i + 2);
-                if (i != 0) {
-                    i = i - 1;
-                }
-            } else {
-                i++;
+        int n=s.length(); 
+        stack<char>st; 
+        for(auto i:s){ 
+            if(st.empty()) st.push(i);
+            else{
+            if(st.top()=='A' and i=='B'){ 
+                st.pop();
             }
-            if (i > s.size()) {
-                count = true;
+            else if(st.top()=='C' and i=='D'){ 
+                st.pop();
             }
-        }
-        return s.size();
+            else st.push(i);
+            }
+
+        } 
+        return st.size();
     }
 };
