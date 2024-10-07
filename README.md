@@ -222,6 +222,7 @@
 | [0022-generate-parentheses](https://github.com/ojasvagupta/Leetcode/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/ojasvagupta/Leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/ojasvagupta/Leetcode/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/ojasvagupta/Leetcode/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/ojasvagupta/Leetcode/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/ojasvagupta/Leetcode/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/ojasvagupta/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -430,6 +431,7 @@
 | [0035-search-insert-position](https://github.com/ojasvagupta/Leetcode/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/ojasvagupta/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0054-spiral-matrix](https://github.com/ojasvagupta/Leetcode/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/ojasvagupta/Leetcode/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ojasvagupta/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ojasvagupta/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/ojasvagupta/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -498,6 +500,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ojasvagupta/Leetcode/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/ojasvagupta/Leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/ojasvagupta/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ojasvagupta/Leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/ojasvagupta/Leetcode/tree/master/0733-flood-fill) |
@@ -725,6 +728,7 @@
 | [0022-generate-parentheses](https://github.com/ojasvagupta/Leetcode/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/ojasvagupta/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/ojasvagupta/Leetcode/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/ojasvagupta/Leetcode/tree/master/0079-word-search) |
 ## Game Theory
 |  |
 | ------- |
