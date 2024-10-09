@@ -304,6 +304,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/ojasvagupta/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/ojasvagupta/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/ojasvagupta/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ojasvagupta/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ojasvagupta/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ojasvagupta/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ojasvagupta/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -332,6 +333,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/ojasvagupta/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/ojasvagupta/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/ojasvagupta/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ojasvagupta/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ojasvagupta/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ojasvagupta/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ojasvagupta/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -358,6 +360,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/ojasvagupta/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/ojasvagupta/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ojasvagupta/Leetcode/tree/master/0207-course-schedule) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ojasvagupta/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ojasvagupta/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/ojasvagupta/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ojasvagupta/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -751,6 +754,7 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ojasvagupta/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/ojasvagupta/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ojasvagupta/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ojasvagupta/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ojasvagupta/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
