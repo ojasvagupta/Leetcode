@@ -255,6 +255,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ojasvagupta/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ojasvagupta/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/ojasvagupta/Leetcode/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/ojasvagupta/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ojasvagupta/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ojasvagupta/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ojasvagupta/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -296,6 +297,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ojasvagupta/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ojasvagupta/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ojasvagupta/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/ojasvagupta/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/ojasvagupta/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/ojasvagupta/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ojasvagupta/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -321,6 +323,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ojasvagupta/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ojasvagupta/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ojasvagupta/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/ojasvagupta/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/ojasvagupta/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/ojasvagupta/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ojasvagupta/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -729,6 +732,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ojasvagupta/Leetcode/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/ojasvagupta/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/ojasvagupta/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0729-my-calendar-i](https://github.com/ojasvagupta/Leetcode/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ojasvagupta/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -738,6 +742,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ojasvagupta/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/ojasvagupta/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ojasvagupta/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ojasvagupta/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
@@ -799,4 +804,8 @@
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/ojasvagupta/Leetcode/tree/master/0729-my-calendar-i) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/ojasvagupta/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
