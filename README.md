@@ -402,6 +402,7 @@
 | [0547-number-of-provinces](https://github.com/ojasvagupta/Leetcode/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ojasvagupta/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/ojasvagupta/Leetcode/tree/master/0733-flood-fill) |
+| [0945-snakes-and-ladders](https://github.com/ojasvagupta/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ojasvagupta/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1380-number-of-closed-islands](https://github.com/ojasvagupta/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1484-linked-list-in-binary-tree](https://github.com/ojasvagupta/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
@@ -500,6 +501,7 @@
 | [0870-magic-squares-in-grid](https://github.com/ojasvagupta/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/ojasvagupta/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/ojasvagupta/Leetcode/tree/master/0921-spiral-matrix-iii) |
+| [0945-snakes-and-ladders](https://github.com/ojasvagupta/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/ojasvagupta/Leetcode/tree/master/0948-sort-an-array) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ojasvagupta/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1240-stone-game-ii](https://github.com/ojasvagupta/Leetcode/tree/master/1240-stone-game-ii) |
@@ -554,6 +556,7 @@
 | [0733-flood-fill](https://github.com/ojasvagupta/Leetcode/tree/master/0733-flood-fill) |
 | [0870-magic-squares-in-grid](https://github.com/ojasvagupta/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/ojasvagupta/Leetcode/tree/master/0921-spiral-matrix-iii) |
+| [0945-snakes-and-ladders](https://github.com/ojasvagupta/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1380-number-of-closed-islands](https://github.com/ojasvagupta/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ojasvagupta/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ojasvagupta/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
