@@ -284,6 +284,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ojasvagupta/Leetcode/tree/master/0067-add-binary) |
+| [0191-number-of-1-bits](https://github.com/ojasvagupta/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/ojasvagupta/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0476-number-complement](https://github.com/ojasvagupta/Leetcode/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ojasvagupta/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
@@ -728,6 +729,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ojasvagupta/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ojasvagupta/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0191-number-of-1-bits](https://github.com/ojasvagupta/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0948-sort-an-array](https://github.com/ojasvagupta/Leetcode/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
