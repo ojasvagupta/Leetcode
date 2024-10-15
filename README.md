@@ -284,6 +284,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ojasvagupta/Leetcode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/ojasvagupta/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/ojasvagupta/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/ojasvagupta/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0476-number-complement](https://github.com/ojasvagupta/Leetcode/tree/master/0476-number-complement) |
@@ -488,6 +489,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ojasvagupta/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/ojasvagupta/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/ojasvagupta/Leetcode/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/ojasvagupta/Leetcode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/ojasvagupta/Leetcode/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/ojasvagupta/Leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/ojasvagupta/Leetcode/tree/master/0189-rotate-array) |
