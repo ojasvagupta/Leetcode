@@ -602,6 +602,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/ojasvagupta/Leetcode/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/ojasvagupta/Leetcode/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/ojasvagupta/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ojasvagupta/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -647,6 +648,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ojasvagupta/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ojasvagupta/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/ojasvagupta/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0148-sort-list](https://github.com/ojasvagupta/Leetcode/tree/master/0148-sort-list) |
 | [0725-split-linked-list-in-parts](https://github.com/ojasvagupta/Leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/ojasvagupta/Leetcode/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/ojasvagupta/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
@@ -685,6 +687,7 @@
 | [0061-rotate-list](https://github.com/ojasvagupta/Leetcode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ojasvagupta/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/ojasvagupta/Leetcode/tree/master/0086-partition-list) |
+| [0148-sort-list](https://github.com/ojasvagupta/Leetcode/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/ojasvagupta/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ojasvagupta/Leetcode/tree/master/0202-happy-number) |
 | [0567-permutation-in-string](https://github.com/ojasvagupta/Leetcode/tree/master/0567-permutation-in-string) |
@@ -734,6 +737,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ojasvagupta/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ojasvagupta/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/ojasvagupta/Leetcode/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/ojasvagupta/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0948-sort-an-array](https://github.com/ojasvagupta/Leetcode/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
@@ -750,6 +754,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/ojasvagupta/Leetcode/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/ojasvagupta/Leetcode/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
