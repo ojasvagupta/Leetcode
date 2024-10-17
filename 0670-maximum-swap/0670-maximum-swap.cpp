@@ -5,7 +5,7 @@ public:
         bool sp = false;
         int i = 0;
         int j = 0;
-        while (!sp && j<s.size()) {
+        while (!sp && j < s.size()) {
             stack<pair<char, int>> st;
             st.push({s[i], i});
             while (i < s.size()) {
@@ -16,18 +16,17 @@ public:
                 i++;
             }
             auto x = st.top();
-            if (x.first== s[j]) {
+            if (x.first == s[j]) {
                 while (s[j] == x.first) {
                     j++;
                 }
             } else if (x.first > s[j]) {
                 swap(s[x.second], s[j]);
-                sp=true;
+                sp = true;
             }
-            i=j;
-            
+            i = j;
         }
-        int res=stoi(s);
+        int res = stoi(s);
         return res;
     }
 };
