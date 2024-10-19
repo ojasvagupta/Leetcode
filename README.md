@@ -278,6 +278,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ojasvagupta/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ojasvagupta/Leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/ojasvagupta/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ojasvagupta/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ojasvagupta/Leetcode/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/ojasvagupta/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/ojasvagupta/Leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -500,6 +501,7 @@
 | [0130-surrounded-regions](https://github.com/ojasvagupta/Leetcode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/ojasvagupta/Leetcode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/ojasvagupta/Leetcode/tree/master/0139-word-break) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ojasvagupta/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ojasvagupta/Leetcode/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/ojasvagupta/Leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/ojasvagupta/Leetcode/tree/master/0189-rotate-array) |
