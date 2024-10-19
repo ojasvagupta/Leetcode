@@ -493,6 +493,7 @@
 | [0035-search-insert-position](https://github.com/ojasvagupta/Leetcode/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/ojasvagupta/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0054-spiral-matrix](https://github.com/ojasvagupta/Leetcode/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/ojasvagupta/Leetcode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/ojasvagupta/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/ojasvagupta/Leetcode/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ojasvagupta/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -617,6 +618,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/ojasvagupta/Leetcode/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/ojasvagupta/Leetcode/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/ojasvagupta/Leetcode/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/ojasvagupta/Leetcode/tree/master/0539-minimum-time-difference) |
