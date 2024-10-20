@@ -237,6 +237,7 @@
 | [0567-permutation-in-string](https://github.com/ojasvagupta/Leetcode/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ojasvagupta/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ojasvagupta/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1197-parsing-a-boolean-expression](https://github.com/ojasvagupta/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ojasvagupta/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1720-crawler-log-folder](https://github.com/ojasvagupta/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ojasvagupta/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -265,6 +266,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/ojasvagupta/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ojasvagupta/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ojasvagupta/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1197-parsing-a-boolean-expression](https://github.com/ojasvagupta/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ojasvagupta/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1720-crawler-log-folder](https://github.com/ojasvagupta/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ojasvagupta/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -723,6 +725,7 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/ojasvagupta/Leetcode/tree/master/1013-fibonacci-number) |
+| [1197-parsing-a-boolean-expression](https://github.com/ojasvagupta/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ojasvagupta/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
