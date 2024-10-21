@@ -288,6 +288,7 @@
 | [0729-my-calendar-i](https://github.com/ojasvagupta/Leetcode/tree/master/0729-my-calendar-i) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ojasvagupta/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ojasvagupta/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2690-house-robber-iv](https://github.com/ojasvagupta/Leetcode/tree/master/2690-house-robber-iv) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -570,6 +571,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ojasvagupta/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ojasvagupta/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ojasvagupta/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2690-house-robber-iv](https://github.com/ojasvagupta/Leetcode/tree/master/2690-house-robber-iv) |
 | [2727-number-of-senior-citizens](https://github.com/ojasvagupta/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/ojasvagupta/Leetcode/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ojasvagupta/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
