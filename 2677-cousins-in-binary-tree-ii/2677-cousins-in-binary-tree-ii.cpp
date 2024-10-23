@@ -35,7 +35,7 @@ public:
                 q.pop();
                 if (front->left) {
                     sum = sum + front->left->val;
-                     q.push(front->left);
+                    q.push(front->left);
                 }
                 if (front->right) {
                     sum = sum + front->right->val;
@@ -58,7 +58,7 @@ public:
                     break;
                 }
                 i++;
-                sum=mp[i];
+                sum = mp[i];
 
             } else {
                 TreeNode* front = q.front();
@@ -66,7 +66,7 @@ public:
                 q.pop();
                 if (front->left) {
                     sum = sum - front->left->val;
-                     q.push(front->left);
+                    q.push(front->left);
                 }
                 if (front->right) {
                     sum = sum - front->right->val;
