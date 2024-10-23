@@ -448,6 +448,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/ojasvagupta/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/ojasvagupta/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/ojasvagupta/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/ojasvagupta/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0433-minimum-genetic-mutation](https://github.com/ojasvagupta/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0567-permutation-in-string](https://github.com/ojasvagupta/Leetcode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ojasvagupta/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -530,6 +531,7 @@
 | [0274-h-index](https://github.com/ojasvagupta/Leetcode/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/ojasvagupta/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ojasvagupta/Leetcode/tree/master/0322-coin-change) |
+| [0380-insert-delete-getrandom-o1](https://github.com/ojasvagupta/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/ojasvagupta/Leetcode/tree/master/0399-evaluate-division) |
 | [0539-minimum-time-difference](https://github.com/ojasvagupta/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ojasvagupta/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -709,6 +711,7 @@
 | [0189-rotate-array](https://github.com/ojasvagupta/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ojasvagupta/Leetcode/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/ojasvagupta/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/ojasvagupta/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0539-minimum-time-difference](https://github.com/ojasvagupta/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/ojasvagupta/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0650-2-keys-keyboard](https://github.com/ojasvagupta/Leetcode/tree/master/0650-2-keys-keyboard) |
@@ -846,6 +849,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/ojasvagupta/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/ojasvagupta/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ojasvagupta/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0380-insert-delete-getrandom-o1](https://github.com/ojasvagupta/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0729-my-calendar-i](https://github.com/ojasvagupta/Leetcode/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ojasvagupta/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/ojasvagupta/Leetcode/tree/master/0859-design-circular-deque) |
@@ -936,4 +940,8 @@
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/ojasvagupta/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/ojasvagupta/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
