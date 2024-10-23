@@ -527,6 +527,7 @@
 | [0212-word-search-ii](https://github.com/ojasvagupta/Leetcode/tree/master/0212-word-search-ii) |
 | [0219-contains-duplicate-ii](https://github.com/ojasvagupta/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/ojasvagupta/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/ojasvagupta/Leetcode/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/ojasvagupta/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ojasvagupta/Leetcode/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/ojasvagupta/Leetcode/tree/master/0399-evaluate-division) |
@@ -639,6 +640,7 @@
 | [0056-merge-intervals](https://github.com/ojasvagupta/Leetcode/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/ojasvagupta/Leetcode/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/ojasvagupta/Leetcode/tree/master/0179-largest-number) |
+| [0274-h-index](https://github.com/ojasvagupta/Leetcode/tree/master/0274-h-index) |
 | [0539-minimum-time-difference](https://github.com/ojasvagupta/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ojasvagupta/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ojasvagupta/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -813,6 +815,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/ojasvagupta/Leetcode/tree/master/0274-h-index) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ojasvagupta/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/ojasvagupta/Leetcode/tree/master/0948-sort-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ojasvagupta/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
