@@ -329,6 +329,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/ojasvagupta/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ojasvagupta/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ojasvagupta/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0988-flip-equivalent-binary-trees](https://github.com/ojasvagupta/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ojasvagupta/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ojasvagupta/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1484-linked-list-in-binary-tree](https://github.com/ojasvagupta/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
@@ -360,6 +361,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ojasvagupta/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ojasvagupta/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ojasvagupta/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0988-flip-equivalent-binary-trees](https://github.com/ojasvagupta/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ojasvagupta/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ojasvagupta/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1484-linked-list-in-binary-tree](https://github.com/ojasvagupta/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
@@ -397,6 +399,7 @@
 | [0733-flood-fill](https://github.com/ojasvagupta/Leetcode/tree/master/0733-flood-fill) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ojasvagupta/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ojasvagupta/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [0988-flip-equivalent-binary-trees](https://github.com/ojasvagupta/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ojasvagupta/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ojasvagupta/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1380-number-of-closed-islands](https://github.com/ojasvagupta/Leetcode/tree/master/1380-number-of-closed-islands) |
