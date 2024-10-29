@@ -525,6 +525,7 @@
 | [0079-word-search](https://github.com/ojasvagupta/Leetcode/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ojasvagupta/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ojasvagupta/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0120-triangle](https://github.com/ojasvagupta/Leetcode/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/ojasvagupta/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/ojasvagupta/Leetcode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/ojasvagupta/Leetcode/tree/master/0136-single-number) |
@@ -776,6 +777,7 @@
 | [0022-generate-parentheses](https://github.com/ojasvagupta/Leetcode/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/ojasvagupta/Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/ojasvagupta/Leetcode/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/ojasvagupta/Leetcode/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/ojasvagupta/Leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/ojasvagupta/Leetcode/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/ojasvagupta/Leetcode/tree/master/0264-ugly-number-ii) |
