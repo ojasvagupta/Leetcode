@@ -17,25 +17,18 @@ public:
         return false;
     }
     bool canSortArray(vector<int>& nums) {
-        for(int i=0;i<nums.size()-1;i++)
-        {
-            if(nums[i]>nums[i+1] && setbit(nums[i],nums[i+1]))
-            {
-                swap(nums[i],nums[i+1]);
-                for(int j=i;j>=1;j--)
-                {
-                    if(nums[j-1]>nums[j] && setbit(nums[j],nums[j-1]))
-                    {
-                        swap(nums[j],nums[j-1]);
-                    }
-                    else if(nums[j-1]>nums[j] && !setbit(nums[j],nums[j-1]))
-                    {
+        for (int i = 0; i < nums.size() - 1; i++) {
+            if (nums[i] > nums[i + 1] && setbit(nums[i], nums[i + 1])) {
+                swap(nums[i], nums[i + 1]);
+                for (int j = i; j >= 1; j--) {
+                    if (nums[j - 1] > nums[j] && setbit(nums[j], nums[j - 1])) {
+                        swap(nums[j], nums[j - 1]);
+                    } else if (nums[j - 1] > nums[j] &&
+                               !setbit(nums[j], nums[j - 1])) {
                         return false;
                     }
                 }
-            }
-            else if(nums[i]>nums[i+1] && !setbit(nums[i],nums[i+1]))
-            {
+            } else if (nums[i] > nums[i + 1] && !setbit(nums[i], nums[i + 1])) {
                 return false;
             }
         }
