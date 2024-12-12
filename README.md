@@ -623,6 +623,7 @@
 | [2586-longest-square-streak-in-an-array](https://github.com/ojasvagupta/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ojasvagupta/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2690-house-robber-iv](https://github.com/ojasvagupta/Leetcode/tree/master/2690-house-robber-iv) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/ojasvagupta/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ojasvagupta/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/ojasvagupta/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2727-number-of-senior-citizens](https://github.com/ojasvagupta/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -727,6 +728,7 @@
 | [2299-merge-nodes-in-between-zeros](https://github.com/ojasvagupta/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/ojasvagupta/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2645-pass-the-pillow](https://github.com/ojasvagupta/Leetcode/tree/master/2645-pass-the-pillow) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/ojasvagupta/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ojasvagupta/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/ojasvagupta/Leetcode/tree/master/2846-robot-collisions) |
 ## Linked List
@@ -859,6 +861,7 @@
 | [1325-path-with-maximum-probability](https://github.com/ojasvagupta/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ojasvagupta/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ojasvagupta/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/ojasvagupta/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2803-modify-graph-edge-weights](https://github.com/ojasvagupta/Leetcode/tree/master/2803-modify-graph-edge-weights) |
 ## Merge Sort
 |  |
