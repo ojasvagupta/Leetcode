@@ -273,6 +273,7 @@
 | [0155-min-stack](https://github.com/ojasvagupta/Leetcode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/ojasvagupta/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ojasvagupta/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0780-max-chunks-to-make-sorted](https://github.com/ojasvagupta/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ojasvagupta/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/ojasvagupta/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ojasvagupta/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -570,6 +571,7 @@
 | [0729-my-calendar-i](https://github.com/ojasvagupta/Leetcode/tree/master/0729-my-calendar-i) |
 | [0733-flood-fill](https://github.com/ojasvagupta/Leetcode/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/ojasvagupta/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0780-max-chunks-to-make-sorted](https://github.com/ojasvagupta/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0859-design-circular-deque](https://github.com/ojasvagupta/Leetcode/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/ojasvagupta/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/ojasvagupta/Leetcode/tree/master/0906-walking-robot-simulation) |
@@ -682,6 +684,7 @@
 | [0179-largest-number](https://github.com/ojasvagupta/Leetcode/tree/master/0179-largest-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ojasvagupta/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/ojasvagupta/Leetcode/tree/master/0670-maximum-swap) |
+| [0780-max-chunks-to-make-sorted](https://github.com/ojasvagupta/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ojasvagupta/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ojasvagupta/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ojasvagupta/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -703,6 +706,7 @@
 | [0539-minimum-time-difference](https://github.com/ojasvagupta/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ojasvagupta/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ojasvagupta/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0780-max-chunks-to-make-sorted](https://github.com/ojasvagupta/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/ojasvagupta/Leetcode/tree/master/0948-sort-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ojasvagupta/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1256-rank-transform-of-an-array](https://github.com/ojasvagupta/Leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -1036,5 +1040,6 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/ojasvagupta/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ojasvagupta/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 <!---LeetCode Topics End-->
