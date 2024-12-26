@@ -574,6 +574,7 @@
 | [0322-coin-change](https://github.com/ojasvagupta/Leetcode/tree/master/0322-coin-change) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ojasvagupta/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/ojasvagupta/Leetcode/tree/master/0399-evaluate-division) |
+| [0494-target-sum](https://github.com/ojasvagupta/Leetcode/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/ojasvagupta/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ojasvagupta/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ojasvagupta/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -849,6 +850,7 @@
 | [0264-ugly-number-ii](https://github.com/ojasvagupta/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ojasvagupta/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ojasvagupta/Leetcode/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/ojasvagupta/Leetcode/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/ojasvagupta/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0747-min-cost-climbing-stairs](https://github.com/ojasvagupta/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ojasvagupta/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
@@ -970,6 +972,7 @@
 | [0077-combinations](https://github.com/ojasvagupta/Leetcode/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/ojasvagupta/Leetcode/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/ojasvagupta/Leetcode/tree/master/0212-word-search-ii) |
+| [0494-target-sum](https://github.com/ojasvagupta/Leetcode/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ojasvagupta/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ojasvagupta/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Game Theory
