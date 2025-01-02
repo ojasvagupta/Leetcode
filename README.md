@@ -551,6 +551,7 @@
 | [0054-spiral-matrix](https://github.com/ojasvagupta/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ojasvagupta/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ojasvagupta/Leetcode/tree/master/0056-merge-intervals) |
+| [0064-minimum-path-sum](https://github.com/ojasvagupta/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/ojasvagupta/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/ojasvagupta/Leetcode/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ojasvagupta/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -663,6 +664,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ojasvagupta/Leetcode/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/ojasvagupta/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/ojasvagupta/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/ojasvagupta/Leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/ojasvagupta/Leetcode/tree/master/0130-surrounded-regions) |
@@ -850,6 +852,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/ojasvagupta/Leetcode/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/ojasvagupta/Leetcode/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/ojasvagupta/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ojasvagupta/Leetcode/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/ojasvagupta/Leetcode/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/ojasvagupta/Leetcode/tree/master/0139-word-break) |
