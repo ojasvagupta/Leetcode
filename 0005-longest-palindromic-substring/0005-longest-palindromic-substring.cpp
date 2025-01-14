@@ -1,46 +1,27 @@
+#include <string>
+using namespace std;
+
 class Solution {
 public:
-    bool check(int st, int e, const string& s, vector<vector<int>>& memo) {
-        if (memo[st][e] != -1) {
-            return memo[st][e]; // Use stored result
-        }
-        int i = st, j = e;
-        while (i < j) {
-            if (s[i] != s[j]) {
-                return memo[st][e] = 0; // Mark as not a palindrome
+    string longestPalindrome(string s) {
+        int start = 0, end = 0;
+        for (int i = 0; i < s.length(); i++) {
+            int len1 = expandAroundCenter(s, i, i);
+            int len2 = expandAroundCenter(s, i, i + 1);
+            int len = max(len1, len2);
+            if (len > end - start) {
+                start = i - (len - 1) / 2;
+                end = i + len / 2;
             }
-            i++;
-            j--;
         }
-        return memo[st][e] = 1; // Mark as a palindrome
+        return s.substr(start, end - start + 1);
     }
 
-    string longestPalindrome(string s) {
-        if (s.size() <= 1) {
-            return s;
+    int expandAroundCenter(string s, int left, int right) {
+        while (left >= 0 && right < s.length() && s[left] == s[right]) {
+            left--;
+            right++;
         }
-
-        unordered_map<char, vector<int>> mp;
-        for (int i = 0; i < s.length(); i++) {
-            mp[s[i]].push_back(i);
-        }
-
-        int maxLength = 0, start = -1;
-        vector<vector<int>> memo(s.size(), vector<int>(s.size(), -1));
-
-        for (const auto& entry : mp) {
-            const vector<int>& indices = entry.second;
-            for (int i = 0; i < indices.size(); i++) {
-                for (int j = indices.size() - 1; j > i; j--) {
-                    int len = indices[j] - indices[i] + 1;
-                    if (len > maxLength && check(indices[i], indices[j], s, memo)) {
-                        maxLength = len;
-                        start = indices[i];
-                    }
-                }
-            }
-        }
-
-        return start == -1 ? s.substr(0,1) : s.substr(start, maxLength);
+        return right - left - 1;
     }
 };
