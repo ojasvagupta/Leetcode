@@ -4,7 +4,7 @@ public:
         unordered_set<int> a;
         unordered_set<int> b;
         int n = A.size();
-        int count=0;
+        int count = 0;
         vector<int> res;
         for (int i = 0; i < n; i++) {
             a.insert(A[i]);
