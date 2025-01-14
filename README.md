@@ -219,6 +219,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ojasvagupta/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/ojasvagupta/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/ojasvagupta/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ojasvagupta/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ojasvagupta/Leetcode/tree/master/0022-generate-parentheses) |
@@ -829,6 +830,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ojasvagupta/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0061-rotate-list](https://github.com/ojasvagupta/Leetcode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ojasvagupta/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/ojasvagupta/Leetcode/tree/master/0086-partition-list) |
@@ -862,6 +864,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ojasvagupta/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ojasvagupta/Leetcode/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/ojasvagupta/Leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/ojasvagupta/Leetcode/tree/master/0063-unique-paths-ii) |
