@@ -3,7 +3,7 @@ public:
     int countServers(vector<vector<int>>& grid) {
         vector<bool> row(grid.size(), false);
         vector<bool> col(grid[0].size(), false);
-        for (int i = 0; i< grid.size(); i++) {
+        for (int i = 0; i < grid.size(); i++) {
             bool x = false;
             int count = 0;
             for (int j = 0; j < grid[0].size(); j++) {
@@ -31,17 +31,14 @@ public:
                 }
             }
         }
-        int res=0;
+        int res = 0;
         for (int i = 0; i < grid.size(); i++) {
             for (int j = 0; j < grid[0].size(); j++) {
-                if(grid[i][j]==1)
-                {
-                    if(row[i]==true or col[j]==true)
-                    {
+                if (grid[i][j] == 1) {
+                    if (row[i] == true or col[j] == true) {
                         res++;
                     }
                 }
-                
             }
         }
         return res;
