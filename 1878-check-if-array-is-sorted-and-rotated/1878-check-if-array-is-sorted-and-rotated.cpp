@@ -15,9 +15,8 @@ public:
         for (int i = 0; i < x; i++) {
             res.push_back(nums[i]);
         }
-        vector<int> temp = res;
-        sort(temp.begin(), temp.end());
-        if (temp == res) {
+        sort(nums.begin(), nums.end());
+        if (nums == res) {
             return true;
         }
         return false;
