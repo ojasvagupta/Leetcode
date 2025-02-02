@@ -654,6 +654,7 @@
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ojasvagupta/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ojasvagupta/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/ojasvagupta/Leetcode/tree/master/1803-average-waiting-time) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/ojasvagupta/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1917-maximum-average-pass-ratio](https://github.com/ojasvagupta/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1923-sentence-similarity-iii](https://github.com/ojasvagupta/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/ojasvagupta/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
