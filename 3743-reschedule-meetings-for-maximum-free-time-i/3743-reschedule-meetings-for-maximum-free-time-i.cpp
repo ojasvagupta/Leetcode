@@ -17,7 +17,7 @@ public:
             currSum += v[right];
 
             // Ensure window size does not exceed `k`
-            if (right - left + 1 > k+1) {
+            if (right - left > k) {
                 currSum -= v[left];
                 left++;
             }
