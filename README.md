@@ -540,6 +540,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ojasvagupta/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ojasvagupta/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ojasvagupta/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ojasvagupta/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ojasvagupta/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Graph
 |  |
@@ -707,6 +708,7 @@
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ojasvagupta/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ojasvagupta/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3429-special-array-i](https://github.com/ojasvagupta/Leetcode/tree/master/3429-special-array-i) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ojasvagupta/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ojasvagupta/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/ojasvagupta/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ojasvagupta/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -826,6 +828,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ojasvagupta/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ojasvagupta/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/ojasvagupta/Leetcode/tree/master/2846-robot-collisions) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ojasvagupta/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ojasvagupta/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Linked List
 |  |
