@@ -531,6 +531,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/ojasvagupta/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ojasvagupta/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ojasvagupta/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2434-design-a-number-container-system](https://github.com/ojasvagupta/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2502-sort-the-people](https://github.com/ojasvagupta/Leetcode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ojasvagupta/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ojasvagupta/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -974,6 +975,7 @@
 | [1325-path-with-maximum-probability](https://github.com/ojasvagupta/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ojasvagupta/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/ojasvagupta/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
+| [2434-design-a-number-container-system](https://github.com/ojasvagupta/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ojasvagupta/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ojasvagupta/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ojasvagupta/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -1039,6 +1041,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/ojasvagupta/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/ojasvagupta/Leetcode/tree/master/0859-design-circular-deque) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ojasvagupta/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2434-design-a-number-container-system](https://github.com/ojasvagupta/Leetcode/tree/master/2434-design-a-number-container-system) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1121,6 +1124,7 @@
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/ojasvagupta/Leetcode/tree/master/0729-my-calendar-i) |
+| [2434-design-a-number-container-system](https://github.com/ojasvagupta/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/ojasvagupta/Leetcode/tree/master/2868-continuous-subarrays) |
 ## Iterator
 |  |
