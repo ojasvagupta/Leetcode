@@ -532,6 +532,7 @@
 | [2306-create-binary-tree-from-descriptions](https://github.com/ojasvagupta/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ojasvagupta/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2434-design-a-number-container-system](https://github.com/ojasvagupta/Leetcode/tree/master/2434-design-a-number-container-system) |
+| [2448-count-number-of-bad-pairs](https://github.com/ojasvagupta/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2502-sort-the-people](https://github.com/ojasvagupta/Leetcode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ojasvagupta/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ojasvagupta/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -680,6 +681,7 @@
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ojasvagupta/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/ojasvagupta/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2411-spiral-matrix-iv](https://github.com/ojasvagupta/Leetcode/tree/master/2411-spiral-matrix-iv) |
+| [2448-count-number-of-bad-pairs](https://github.com/ojasvagupta/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ojasvagupta/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ojasvagupta/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/ojasvagupta/Leetcode/tree/master/2502-sort-the-people) |
@@ -876,6 +878,7 @@
 | [1642-water-bottles](https://github.com/ojasvagupta/Leetcode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ojasvagupta/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/ojasvagupta/Leetcode/tree/master/2155-find-missing-observations) |
+| [2448-count-number-of-bad-pairs](https://github.com/ojasvagupta/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2645-pass-the-pillow](https://github.com/ojasvagupta/Leetcode/tree/master/2645-pass-the-pillow) |
 | [2716-prime-subtraction-operation](https://github.com/ojasvagupta/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ojasvagupta/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -1010,6 +1013,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ojasvagupta/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ojasvagupta/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ojasvagupta/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2448-count-number-of-bad-pairs](https://github.com/ojasvagupta/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ojasvagupta/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ojasvagupta/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Shortest Path
