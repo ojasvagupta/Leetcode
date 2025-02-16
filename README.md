@@ -664,6 +664,7 @@
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ojasvagupta/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ojasvagupta/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/ojasvagupta/Leetcode/tree/master/1803-average-waiting-time) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ojasvagupta/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ojasvagupta/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1917-maximum-average-pass-ratio](https://github.com/ojasvagupta/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1923-sentence-similarity-iii](https://github.com/ojasvagupta/Leetcode/tree/master/1923-sentence-similarity-iii) |
@@ -1081,6 +1082,7 @@
 | [0212-word-search-ii](https://github.com/ojasvagupta/Leetcode/tree/master/0212-word-search-ii) |
 | [0494-target-sum](https://github.com/ojasvagupta/Leetcode/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ojasvagupta/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ojasvagupta/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ojasvagupta/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ojasvagupta/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Game Theory
