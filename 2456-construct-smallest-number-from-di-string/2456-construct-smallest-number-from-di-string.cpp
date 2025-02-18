@@ -10,7 +10,7 @@ public:
             check = true;
             return;
         }
-        for (int j = 1; j < 10; j++) {
+        for (int j = 1; j <= pattern.length()+1; j++) {
             if (pattern[a] == 'I' && j > (s[a] - '0') && !st.count(j)) {
                 st.insert(j);
                 clc(a + 1, pattern, s + to_string(j), st, check, res);
