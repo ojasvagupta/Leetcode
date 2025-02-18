@@ -11,12 +11,12 @@ public:
             return;
         }
         for (int j = 1; j < 10; j++) {
-            if (pattern[a] == 'I' && j > (s[a]-'0') && !st.count(j)) {
+            if (pattern[a] == 'I' && j > (s[a] - '0') && !st.count(j)) {
                 st.insert(j);
                 clc(a + 1, pattern, s + to_string(j), st, check, res);
                 st.erase(j);
             }
-            if (pattern[a] == 'D' && j < (s[a]-'0') && !st.count(j)) {
+            if (pattern[a] == 'D' && j < (s[a] - '0') && !st.count(j)) {
                 st.insert(j);
                 clc(a + 1, pattern, s + to_string(j), st, check, res);
                 st.erase(j);
@@ -33,16 +33,15 @@ public:
             k = 0;
         }
         bool check = false;
-        for(int i=1;i<10;i++)
-        {
+        for (int i = 1; i < 10; i++) {
             st.insert(i);
             clc(0, pattern, to_string(i), st, check, res);
             st.erase(i);
-        if (check) {
-            return res;
+            if (check) {
+                return res;
+            }
         }
-        }
-        
+
         return res;
     }
 };
