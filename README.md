@@ -259,6 +259,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/ojasvagupta/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ojasvagupta/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2232-adding-spaces-to-a-string](https://github.com/ojasvagupta/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/ojasvagupta/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ojasvagupta/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/ojasvagupta/Leetcode/tree/master/2502-sort-the-people) |
 | [2580-circular-sentence](https://github.com/ojasvagupta/Leetcode/tree/master/2580-circular-sentence) |
@@ -290,6 +291,7 @@
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ojasvagupta/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ojasvagupta/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ojasvagupta/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/ojasvagupta/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ojasvagupta/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/ojasvagupta/Leetcode/tree/master/2846-robot-collisions) |
 ## Binary Search
@@ -781,6 +783,7 @@
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ojasvagupta/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/ojasvagupta/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ojasvagupta/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/ojasvagupta/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ojasvagupta/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2509-minimize-xor](https://github.com/ojasvagupta/Leetcode/tree/master/2509-minimize-xor) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ojasvagupta/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -1084,6 +1087,7 @@
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ojasvagupta/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ojasvagupta/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ojasvagupta/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/ojasvagupta/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ojasvagupta/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Game Theory
 |  |
