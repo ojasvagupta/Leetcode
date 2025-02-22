@@ -39,8 +39,7 @@ public:
         return;
     }
     bool find(int target) {
-        if(st.count(target))
-        {
+        if (st.count(target)) {
             return true;
         }
         return false;
