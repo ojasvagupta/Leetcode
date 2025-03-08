@@ -260,6 +260,7 @@
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ojasvagupta/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2232-adding-spaces-to-a-string](https://github.com/ojasvagupta/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ojasvagupta/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ojasvagupta/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ojasvagupta/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/ojasvagupta/Leetcode/tree/master/2502-sort-the-people) |
 | [2580-circular-sentence](https://github.com/ojasvagupta/Leetcode/tree/master/2580-circular-sentence) |
@@ -1122,6 +1123,7 @@
 | [0219-contains-duplicate-ii](https://github.com/ojasvagupta/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/ojasvagupta/Leetcode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ojasvagupta/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ojasvagupta/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2868-continuous-subarrays](https://github.com/ojasvagupta/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ojasvagupta/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/ojasvagupta/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
