@@ -273,6 +273,7 @@
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ojasvagupta/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ojasvagupta/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3451-string-compression-iii](https://github.com/ojasvagupta/Leetcode/tree/master/3451-string-compression-iii) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ojasvagupta/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Stack
 |  |
 | ------- |
@@ -560,6 +561,7 @@
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ojasvagupta/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ojasvagupta/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ojasvagupta/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ojasvagupta/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Graph
 |  |
 | ------- |
@@ -1130,6 +1132,7 @@
 | [2868-continuous-subarrays](https://github.com/ojasvagupta/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ojasvagupta/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/ojasvagupta/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ojasvagupta/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Brainteaser
 |  |
 | ------- |
