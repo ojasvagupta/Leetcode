@@ -316,6 +316,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ojasvagupta/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ojasvagupta/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ojasvagupta/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2665-minimum-time-to-repair-cars](https://github.com/ojasvagupta/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/ojasvagupta/Leetcode/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ojasvagupta/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/ojasvagupta/Leetcode/tree/master/2716-prime-subtraction-operation) |
@@ -713,6 +714,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ojasvagupta/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ojasvagupta/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ojasvagupta/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2665-minimum-time-to-repair-cars](https://github.com/ojasvagupta/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2685-first-completely-painted-row-or-column](https://github.com/ojasvagupta/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2690-house-robber-iv](https://github.com/ojasvagupta/Leetcode/tree/master/2690-house-robber-iv) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ojasvagupta/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
