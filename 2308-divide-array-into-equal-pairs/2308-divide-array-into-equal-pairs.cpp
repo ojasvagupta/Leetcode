@@ -1,17 +1,25 @@
 class Solution {
 public:
     bool divideArray(vector<int>& nums) {
-        unordered_set<int> st;
-        for (int i = 0; i < nums.size(); i++) {
-            if (!st.count(nums[i])) {
-                st.insert(nums[i]);
-            } else {
-                st.erase(nums[i]);
+        // Find maximum value in array
+        int maxNum = 0;
+        for (int num : nums) {
+            maxNum = max(num, maxNum);
+        }
+
+        // Toggle pair status for each number
+        vector<bool> needsPair(maxNum + 1, false);
+        for (int num : nums) {
+            needsPair[num] = !needsPair[num];
+        }
+
+        // Check if any number remains unpaired
+        for (int num : nums) {
+            if (needsPair[num]) {
+                return false;
             }
         }
-        if (st.size() > 0) {
-            return false;
-        }
+
         return true;
     }
 };
