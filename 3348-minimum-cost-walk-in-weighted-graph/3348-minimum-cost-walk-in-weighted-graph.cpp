@@ -1,6 +1,7 @@
 class Solution {
 public:
-    void dfs(unordered_map<int, vector<pair<int, int>>>& mp, vector<bool>& vis, int node, int& weight) {
+    void dfs(unordered_map<int, vector<pair<int, int>>>& mp, vector<bool>& vis,
+             int node, int& weight) {
         vis[node] = true;
         for (auto& neighbor : mp[node]) {
             int nextNode = neighbor.first;
@@ -34,7 +35,8 @@ public:
         }
     }
 
-    vector<int> minimumCost(int n, vector<vector<int>>& edges, vector<vector<int>>& query) {
+    vector<int> minimumCost(int n, vector<vector<int>>& edges,
+                            vector<vector<int>>& query) {
         vector<int> parent(n), rank(n, 0);
         unordered_map<int, vector<pair<int, int>>> mp;
 
