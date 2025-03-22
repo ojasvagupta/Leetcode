@@ -1,6 +1,7 @@
 class Solution {
 public:
-    void dfs(int node, unordered_map<int, vector<int>>& mp, unordered_set<int>& vis, vector<int>& component) {
+    void dfs(int node, unordered_map<int, vector<int>>& mp,
+             unordered_set<int>& vis, vector<int>& component) {
         vis.insert(node);
         component.push_back(node);
         for (int neighbor : mp[node]) {
@@ -34,7 +35,8 @@ public:
                     }
                 }
 
-                if (isComplete) res++;
+                if (isComplete)
+                    res++;
             }
         }
 
