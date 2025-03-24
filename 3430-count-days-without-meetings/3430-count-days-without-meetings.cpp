@@ -5,8 +5,6 @@ public:
 
         // Sort meetings by start time
         sort(meetings.begin(), meetings.end());
-
-        int totalMeetingDays = 0;
         int start = meetings[0][0], end = meetings[0][1];
 
         for (int i = 1; i < meetings.size(); i++) {
@@ -18,15 +16,15 @@ public:
                 end = max(end, newEnd);
             } else {
                 // Add previous interval's days
-                totalMeetingDays += (end - start + 1);
+                days -= (end - start + 1);
                 start = newStart;
                 end = newEnd;
             }
         }
 
         // Add last interval's days
-        totalMeetingDays += (end - start + 1);
+        days -= (end - start + 1);
 
-        return days - totalMeetingDays;
+        return days;
     }
 };
