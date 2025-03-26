@@ -717,6 +717,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/ojasvagupta/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2145-grid-game](https://github.com/ojasvagupta/Leetcode/tree/master/2145-grid-game) |
 | [2155-find-missing-observations](https://github.com/ojasvagupta/Leetcode/tree/master/2155-find-missing-observations) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ojasvagupta/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ojasvagupta/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ojasvagupta/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ojasvagupta/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -794,6 +795,7 @@
 | [2035-count-sub-islands](https://github.com/ojasvagupta/Leetcode/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ojasvagupta/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2145-grid-game](https://github.com/ojasvagupta/Leetcode/tree/master/2145-grid-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ojasvagupta/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2411-spiral-matrix-iv](https://github.com/ojasvagupta/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2685-first-completely-painted-row-or-column](https://github.com/ojasvagupta/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ojasvagupta/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -859,6 +861,7 @@
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ojasvagupta/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ojasvagupta/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ojasvagupta/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ojasvagupta/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ojasvagupta/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ojasvagupta/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/ojasvagupta/Leetcode/tree/master/2502-sort-the-people) |
@@ -945,6 +948,7 @@
 | [1642-water-bottles](https://github.com/ojasvagupta/Leetcode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ojasvagupta/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/ojasvagupta/Leetcode/tree/master/2155-find-missing-observations) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ojasvagupta/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/ojasvagupta/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/ojasvagupta/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2645-pass-the-pillow](https://github.com/ojasvagupta/Leetcode/tree/master/2645-pass-the-pillow) |
