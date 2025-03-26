@@ -16,8 +16,8 @@ public:
             mead = nums[n / 2];
         }
         int a = nums[0];
-        int res = (mead - nums[0]) / x;
-        for (int i = 1; i < n; i++) {
+        int res = 0;
+        for (int i = 0; i < n; i++) {
             if ((nums[i] - a) % x != 0) {
                 return -1;
             }
