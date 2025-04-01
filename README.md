@@ -729,6 +729,7 @@
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ojasvagupta/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ojasvagupta/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/ojasvagupta/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2262-solving-questions-with-brainpower](https://github.com/ojasvagupta/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ojasvagupta/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ojasvagupta/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ojasvagupta/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -1046,6 +1047,7 @@
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ojasvagupta/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/ojasvagupta/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ojasvagupta/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2262-solving-questions-with-brainpower](https://github.com/ojasvagupta/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2562-count-ways-to-build-good-strings](https://github.com/ojasvagupta/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ojasvagupta/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/ojasvagupta/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
