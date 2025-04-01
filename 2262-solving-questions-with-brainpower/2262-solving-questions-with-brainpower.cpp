@@ -1,15 +1,18 @@
 class Solution {
 public:
-    long long solve(vector<vector<int>>& questions, int a, vector<long long>& vis) {
+    long long solve(vector<vector<int>>& questions, int a,
+                    vector<long long>& vis) {
         if (a >= questions.size()) {
             return 0;
         }
-        if (vis[a] != -1) { // Use -1 instead of 0 to distinguish between uncomputed values.
+        if (vis[a] != -1) { // Use -1 instead of 0 to distinguish between
+                            // uncomputed values.
             return vis[a];
         }
 
         // Option 1: Solve this question
-        long long take = questions[a][0] + solve(questions, a + questions[a][1] + 1, vis);
+        long long take =
+            questions[a][0] + solve(questions, a + questions[a][1] + 1, vis);
 
         // Option 2: Skip this question
         long long skip = solve(questions, a + 1, vis);
