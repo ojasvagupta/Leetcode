@@ -1,42 +1,86 @@
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
 class Solution {
 public:
     ListNode* reverseKGroup(ListNode* head, int k) {
-        if (!head || k == 1) return head;  // Edge case: empty list or k = 1 (no change)
-        
-        ListNode dummy(-1);  // Dummy node to simplify edge cases
-        dummy.next = head;
-        ListNode *prev = &dummy, *curr = head;
-        
-        // Count the number of nodes in the list
-        int n = 0;
-        while (curr) {
+        int n=1;
+        ListNode* travel=head;
+        while(travel->next!=nullptr)
+        {
             n++;
-            curr = curr->next;
+            travel = travel->next;
         }
-
-        if (n < k) return head;  // If fewer than k nodes, return as it is
-        
-        curr = head;
-        while (n >= k) {  
-            ListNode* next = curr->next;
-            ListNode* tail = curr;  // Tail will become the last node after reversal
-            
-            // Reverse k nodes
-            ListNode* prevNode = nullptr;
-            for (int i = 0; i < k; i++) {
-                ListNode* nextNode = curr->next;
-                curr->next = prevNode;
-                prevNode = curr;
-                curr = nextNode;
+        if (n < k) return head;
+        if(n==k)
+        {
+            ListNode* prev=nullptr;
+            ListNode* curr=head;
+            ListNode* nxt=curr->next;
+            while(curr!=nullptr)
+            {
+                curr->next=prev;
+                prev=curr;
+                curr=nxt;
+                if(nxt==nullptr)
+                {
+                    break;
+                }
+                nxt=nxt->next;
+            }
+            return prev;
+        }
+        ListNode* S1=new ListNode(-1);
+        S1->next=head;
+        ListNode* S2=head;
+        ListNode* temp=head;
+        ListNode* e1=nullptr;
+        ListNode* e2=nullptr;
+        travel=head;
+        for(int i=1;i<k;i++)
+        {
+            travel=travel->next;
+        }
+        ListNode* res=travel;
+        for(int i=1;i<=n;i++)
+        {
+            if(i%k==0)
+            {
+                e1=temp;
+                e2=temp->next;
+                travel=nullptr;
+                ListNode* a=S2;
+                ListNode* b=a->next;
+                while(a!=e2)
+                {
+                    a->next=travel;
+                    travel=a;
+                    a=b;
+                    if(b==nullptr)
+                    {
+                        break;
+                    }
+                    b=b->next;
+                }
+                S2->next=e2;
+                S1->next=e1;
+                S1=S2;
+                S2=e2;
+                temp=S2;
+            }
+            else
+            {
+                temp=temp->next;
             }
             
-            // Connect reversed part with previous part
-            prev->next = prevNode;
-            tail->next = curr;
-            prev = tail;
-            n -= k;
         }
-        
-        return dummy.next;
+        return res;
     }
 };
