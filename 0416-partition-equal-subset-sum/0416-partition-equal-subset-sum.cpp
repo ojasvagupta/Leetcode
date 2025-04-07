@@ -1,39 +1,45 @@
 class Solution {
 public:
-    bool clc(vector<int>& nums, int sum, int total, int i,
+    bool clc(vector<int>& nums, int a, int val, int sum,
              vector<vector<int>>& memo) {
-        if (sum == total) {
-            return true;
-        }
-        if (i < 0) {
+        if (val > sum) {
             return false;
         }
-        if (memo[i][sum] != -1) {
-            return memo[i][sum];
+        if (val == sum) {
+            return true;
+        }
+        if (memo[a][val] != -1) {
+            if (memo[a][val] == 1) {
+                return true;
+            } else {
+                return false;
+            }
         }
         bool res = false;
-        res = clc(nums, sum, total, i - 1, memo);
-        res = res or clc(nums, sum + nums[i], total, i - 1, memo);
+        for (int i = a; i < nums.size(); i++) {
+            res = res || clc(nums, i+1, val + nums[i], sum, memo);
+            if (res) {
+                break;
+            }
+        }
         if (res) {
-            memo[i][sum] = 1;
+            memo[a][val] = 1;
         } else {
-            memo[i][sum] = 0;
+            memo[a][val] = 0;
         }
         return res;
     }
     bool canPartition(vector<int>& nums) {
-        int total = 0;
-        vector<vector<int>> memo(nums.size(), vector<int>(20001, -1));
-        for (auto a : nums) {
-            total += a;
+        int sum = 0;
+        for (int i = 0; i < nums.size(); i++) {
+            sum = sum + nums[i];
         }
-        if (total % 2 != 0) {
+        if (sum % 2 != 0) {
             return false;
         }
-        else
-        {
-            total=total/2;
-        }
-        return clc(nums, 0, total, nums.size() - 1, memo);
+        vector<vector<int>> memo(nums.size()+1, vector<int>(sum+1, -1));
+        sum = sum / 2;
+
+        return clc(nums, 0, 0, sum, memo);
     }
 };
