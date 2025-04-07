@@ -17,7 +17,7 @@ public:
         }
         bool res = false;
         for (int i = a; i < nums.size(); i++) {
-            res = res || clc(nums, i+1, val + nums[i], sum, memo);
+            res = res || clc(nums, i + 1, val + nums[i], sum, memo);
             if (res) {
                 break;
             }
@@ -37,7 +37,7 @@ public:
         if (sum % 2 != 0) {
             return false;
         }
-        vector<vector<int>> memo(nums.size()+1, vector<int>(sum+1, -1));
+        vector<vector<int>> memo(nums.size() + 1, vector<int>(sum + 1, -1));
         sum = sum / 2;
 
         return clc(nums, 0, 0, sum, memo);
