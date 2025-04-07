@@ -1,15 +1,15 @@
 class Solution {
 public:
-    bool clc(vector<int>& nums, int a, int val, int sum,
+    bool clc(vector<int>& nums, int a, int sum,
              vector<vector<int>>& memo) {
-        if (val > sum) {
+        if (sum<0) {
             return false;
         }
-        if (val == sum) {
+        if (sum==0) {
             return true;
         }
-        if (memo[a][val] != -1) {
-            if (memo[a][val] == 1) {
+        if (memo[a][sum] != -1) {
+            if (memo[a][sum] == 1) {
                 return true;
             } else {
                 return false;
@@ -17,15 +17,15 @@ public:
         }
         bool res = false;
         for (int i = a; i < nums.size(); i++) {
-            res = res || clc(nums, i + 1, val + nums[i], sum, memo);
+            res = res || clc(nums, i + 1, sum-nums[i], memo);
             if (res) {
                 break;
             }
         }
         if (res) {
-            memo[a][val] = 1;
+            memo[a][sum] = 1;
         } else {
-            memo[a][val] = 0;
+            memo[a][sum] = 0;
         }
         return res;
     }
@@ -40,6 +40,6 @@ public:
         vector<vector<int>> memo(nums.size() + 1, vector<int>(sum + 1, -1));
         sum = sum / 2;
 
-        return clc(nums, 0, 0, sum, memo);
+        return clc(nums, 0,sum, memo);
     }
 };
