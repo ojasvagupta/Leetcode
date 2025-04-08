@@ -13,22 +13,18 @@ public:
             {
                 mp[nums[i]]=1;
             }
-            v[i]=mp[nums[i]];
-        }
-        int count=0;
-        int res=0;
-        for(int i=0;i<nums.size();i=i+3)
-        {
-            count++;
-            for(int j=i;j<i+3;j++)
+            if(mp[nums[i]]>1)
             {
-                if(j<nums.size() && v[j]>1)
+                int a=(i+1)%3;
+                if(a>0)
                 {
-                    res=count;
-                    break;
+                    return ((i+1)/3)+1;
                 }
+
+                return (i+1)/3;
             }
         }
+        int res=0;
         return res;
     }
 };
