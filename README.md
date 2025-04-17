@@ -223,6 +223,7 @@
 | [0006-zigzag-conversion](https://github.com/ojasvagupta/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ojasvagupta/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ojasvagupta/Leetcode/tree/master/0022-generate-parentheses) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/ojasvagupta/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0067-add-binary](https://github.com/ojasvagupta/Leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/ojasvagupta/Leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/ojasvagupta/Leetcode/tree/master/0072-edit-distance) |
@@ -533,6 +534,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ojasvagupta/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ojasvagupta/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/ojasvagupta/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ojasvagupta/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/ojasvagupta/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/ojasvagupta/Leetcode/tree/master/0133-clone-graph) |
@@ -1243,6 +1245,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ojasvagupta/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/ojasvagupta/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0219-contains-duplicate-ii](https://github.com/ojasvagupta/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/ojasvagupta/Leetcode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ojasvagupta/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
