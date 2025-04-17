@@ -668,6 +668,7 @@
 | [0200-number-of-islands](https://github.com/ojasvagupta/Leetcode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/ojasvagupta/Leetcode/tree/master/0212-word-search-ii) |
 | [0219-contains-duplicate-ii](https://github.com/ojasvagupta/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0221-maximal-square](https://github.com/ojasvagupta/Leetcode/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/ojasvagupta/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/ojasvagupta/Leetcode/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/ojasvagupta/Leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -816,6 +817,7 @@
 | [0130-surrounded-regions](https://github.com/ojasvagupta/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ojasvagupta/Leetcode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/ojasvagupta/Leetcode/tree/master/0212-word-search-ii) |
+| [0221-maximal-square](https://github.com/ojasvagupta/Leetcode/tree/master/0221-maximal-square) |
 | [0733-flood-fill](https://github.com/ojasvagupta/Leetcode/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/ojasvagupta/Leetcode/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/ojasvagupta/Leetcode/tree/master/0870-magic-squares-in-grid) |
@@ -1064,6 +1066,7 @@
 | [0139-word-break](https://github.com/ojasvagupta/Leetcode/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ojasvagupta/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/ojasvagupta/Leetcode/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/ojasvagupta/Leetcode/tree/master/0221-maximal-square) |
 | [0264-ugly-number-ii](https://github.com/ojasvagupta/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ojasvagupta/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ojasvagupta/Leetcode/tree/master/0322-coin-change) |
