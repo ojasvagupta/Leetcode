@@ -3,8 +3,7 @@ public:
     string minWindow(string s, string t) {
         unordered_map<char, int> mp1;
         unordered_map<char, int> mp2;
-        if(s.size()<t.size())
-        {
+        if (s.size() < t.size()) {
             return "";
         }
         for (int i = 0; i < t.size(); i++) {
