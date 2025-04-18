@@ -224,6 +224,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ojasvagupta/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ojasvagupta/Leetcode/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ojasvagupta/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0038-count-and-say](https://github.com/ojasvagupta/Leetcode/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/ojasvagupta/Leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/ojasvagupta/Leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/ojasvagupta/Leetcode/tree/master/0072-edit-distance) |
