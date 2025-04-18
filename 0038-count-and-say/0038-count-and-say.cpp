@@ -4,23 +4,21 @@ public:
         if (n == 1) {
             return "1";
         }
-        string s = "1";
-        for (int i = 1; i < n; i++) {
-            string t = "";
-            int j = 0;
-            int count = 1;
-            while (j < s.size()) {
-                if (j + 1 < s.size() && s[j] == s[j + 1]) {
-                    count++;
-                    j++;
-                } else {
-                    t = t + to_string(count) + s[j];
-                    count = 1;
-                    j++;
-                }
+        string s=countAndSay(n-1);
+        string t="";
+        int count=1;
+        for(int i=0;i<s.size();i++)
+        {
+            if(i+1<s.size() && s[i]==s[i+1])
+            {
+                count++;
             }
-            s = t;
+            else
+            {
+                t=t+to_string(count)+s[i];
+                count=1;
+            }
         }
-        return s;
+        return t;
     }
 };
