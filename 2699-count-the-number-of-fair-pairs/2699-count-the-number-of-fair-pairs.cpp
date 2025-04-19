@@ -1,19 +1,46 @@
+#include <algorithm>
+#include <iostream>
+#include <vector>
+using namespace std;
+
 class Solution {
 public:
     long long countFairPairs(vector<int>& nums, int lower, int upper) {
-        long long res = 0;
         sort(nums.begin(), nums.end());
+        long long res = 0;
         int n = nums.size();
 
-        for (int i = 0; i < n; i++) {
-            int x = nums[i];
-            // Find the first position where nums[i] + nums[a] >= lower
-            int a = lower_bound(nums.begin() + i + 1, nums.end(), lower - x) - nums.begin();
-            // Find the first position where nums[i] + nums[b] > upper
-            int b = upper_bound(nums.begin() + i + 1, nums.end(), upper - x) - nums.begin() - 1;
+        for (int i = 0; i < n; ++i) {
+            int l = lower - nums[i];
+            int h = upper - nums[i];
+
+            // Find first position >= l
+            int left = i + 1, right = n - 1, a = n;
+            while (left <= right) {
+                int mid = (left + right) / 2;
+                if (nums[mid] >= l) {
+                    a = mid;
+                    right = mid - 1;
+                } else {
+                    left = mid + 1;
+                }
+            }
+
+            // Find last position <= h
+            left = i + 1, right = n - 1;
+            int b = i;
+            while (left <= right) {
+                int mid = (left + right) / 2;
+                if (nums[mid] <= h) {
+                    b = mid;
+                    left = mid + 1;
+                } else {
+                    right = mid - 1;
+                }
+            }
 
             if (a <= b) {
-                res += (b - a + 1);  // Add the number of valid pairs for this i
+                res += (b - a + 1);
             }
         }
 
