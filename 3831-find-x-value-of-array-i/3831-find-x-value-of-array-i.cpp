@@ -14,7 +14,7 @@ public:
                 if (dp[i - 1][j] != 0) {
                     dp[i][(j * nums[i]) % k] =
                         dp[i][(j * nums[i]) % k] + dp[i - 1][j];
-                        res[(j * nums[i]) % k]+=dp[i - 1][j];
+                    res[(j * nums[i]) % k] += dp[i - 1][j];
                 }
             }
             dp[i][nums[i]]++;
