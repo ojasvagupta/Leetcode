@@ -1010,6 +1010,7 @@
 | [2050-count-good-numbers](https://github.com/ojasvagupta/Leetcode/tree/master/2050-count-good-numbers) |
 | [2155-find-missing-observations](https://github.com/ojasvagupta/Leetcode/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ojasvagupta/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/ojasvagupta/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/ojasvagupta/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/ojasvagupta/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2645-pass-the-pillow](https://github.com/ojasvagupta/Leetcode/tree/master/2645-pass-the-pillow) |
@@ -1099,6 +1100,7 @@
 | [2067-maximum-number-of-points-with-cost](https://github.com/ojasvagupta/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ojasvagupta/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/ojasvagupta/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/ojasvagupta/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2562-count-ways-to-build-good-strings](https://github.com/ojasvagupta/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ojasvagupta/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/ojasvagupta/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -1246,6 +1248,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/ojasvagupta/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/ojasvagupta/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/ojasvagupta/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ojasvagupta/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -1341,5 +1344,6 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ojasvagupta/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/ojasvagupta/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/ojasvagupta/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 <!---LeetCode Topics End-->
