@@ -669,6 +669,7 @@
 | [0136-single-number](https://github.com/ojasvagupta/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ojasvagupta/Leetcode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/ojasvagupta/Leetcode/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/ojasvagupta/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ojasvagupta/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ojasvagupta/Leetcode/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/ojasvagupta/Leetcode/tree/master/0179-largest-number) |
@@ -1090,6 +1091,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ojasvagupta/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ojasvagupta/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/ojasvagupta/Leetcode/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/ojasvagupta/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ojasvagupta/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/ojasvagupta/Leetcode/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/ojasvagupta/Leetcode/tree/master/0221-maximal-square) |
