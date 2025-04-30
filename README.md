@@ -719,6 +719,7 @@
 | [1364-tuple-with-same-product](https://github.com/ojasvagupta/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1380-number-of-closed-islands](https://github.com/ojasvagupta/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/ojasvagupta/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/ojasvagupta/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ojasvagupta/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ojasvagupta/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ojasvagupta/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -1016,6 +1017,7 @@
 | [0870-magic-squares-in-grid](https://github.com/ojasvagupta/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/ojasvagupta/Leetcode/tree/master/1013-fibonacci-number) |
 | [1240-stone-game-ii](https://github.com/ojasvagupta/Leetcode/tree/master/1240-stone-game-ii) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/ojasvagupta/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/ojasvagupta/Leetcode/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ojasvagupta/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1642-water-bottles](https://github.com/ojasvagupta/Leetcode/tree/master/1642-water-bottles) |
