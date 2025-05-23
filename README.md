@@ -701,6 +701,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/ojasvagupta/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ojasvagupta/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/ojasvagupta/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [0811-number-of-subarrays-with-bounded-maximum](https://github.com/ojasvagupta/Leetcode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0854-making-a-large-island](https://github.com/ojasvagupta/Leetcode/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/ojasvagupta/Leetcode/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/ojasvagupta/Leetcode/tree/master/0870-magic-squares-in-grid) |
@@ -1056,6 +1057,7 @@
 | [0567-permutation-in-string](https://github.com/ojasvagupta/Leetcode/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ojasvagupta/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0768-partition-labels](https://github.com/ojasvagupta/Leetcode/tree/master/0768-partition-labels) |
+| [0811-number-of-subarrays-with-bounded-maximum](https://github.com/ojasvagupta/Leetcode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0868-push-dominoes](https://github.com/ojasvagupta/Leetcode/tree/master/0868-push-dominoes) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ojasvagupta/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ojasvagupta/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
