@@ -1350,6 +1350,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1212-sequential-digits](https://github.com/ojasvagupta/Leetcode/tree/master/1212-sequential-digits) |
 | [1656-count-good-triplets](https://github.com/ojasvagupta/Leetcode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ojasvagupta/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ojasvagupta/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
