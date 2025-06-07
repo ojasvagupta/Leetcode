@@ -281,6 +281,7 @@
 | [3243-count-the-number-of-powerful-integers](https://github.com/ojasvagupta/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ojasvagupta/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ojasvagupta/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ojasvagupta/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3451-string-compression-iii](https://github.com/ojasvagupta/Leetcode/tree/master/3451-string-compression-iii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ojasvagupta/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Stack
@@ -308,6 +309,7 @@
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ojasvagupta/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/ojasvagupta/Leetcode/tree/master/2846-robot-collisions) |
 | [3001-apply-operations-to-maximize-score](https://github.com/ojasvagupta/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ojasvagupta/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Binary Search
 |  |
 | ------- |
@@ -605,6 +607,7 @@
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ojasvagupta/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ojasvagupta/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ojasvagupta/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ojasvagupta/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ojasvagupta/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3548-find-the-count-of-good-integers](https://github.com/ojasvagupta/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ojasvagupta/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -922,6 +925,7 @@
 | [3001-apply-operations-to-maximize-score](https://github.com/ojasvagupta/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3195-separate-black-and-white-balls](https://github.com/ojasvagupta/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ojasvagupta/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ojasvagupta/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Sorting
 |  |
 | ------- |
@@ -1186,6 +1190,7 @@
 | [2803-modify-graph-edge-weights](https://github.com/ojasvagupta/Leetcode/tree/master/2803-modify-graph-edge-weights) |
 | [2868-continuous-subarrays](https://github.com/ojasvagupta/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ojasvagupta/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ojasvagupta/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ojasvagupta/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Merge Sort
 |  |
