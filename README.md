@@ -769,6 +769,7 @@
 | [2035-count-sub-islands](https://github.com/ojasvagupta/Leetcode/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/ojasvagupta/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ojasvagupta/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/ojasvagupta/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/ojasvagupta/Leetcode/tree/master/2145-grid-game) |
 | [2155-find-missing-observations](https://github.com/ojasvagupta/Leetcode/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ojasvagupta/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
