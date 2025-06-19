@@ -787,6 +787,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/ojasvagupta/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ojasvagupta/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/ojasvagupta/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ojasvagupta/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ojasvagupta/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2411-spiral-matrix-iv](https://github.com/ojasvagupta/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2448-count-number-of-bad-pairs](https://github.com/ojasvagupta/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -923,6 +924,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/ojasvagupta/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ojasvagupta/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ojasvagupta/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ojasvagupta/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ojasvagupta/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ojasvagupta/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2509-minimize-xor](https://github.com/ojasvagupta/Leetcode/tree/master/2509-minimize-xor) |
@@ -959,6 +961,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/ojasvagupta/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ojasvagupta/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ojasvagupta/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ojasvagupta/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ojasvagupta/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ojasvagupta/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/ojasvagupta/Leetcode/tree/master/2502-sort-the-people) |
