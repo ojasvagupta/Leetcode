@@ -3,14 +3,21 @@ public:
     string longestSubsequenceRepeatedK(string s, int k) {
         string result = "";
         queue<string> q;
+        vector<int> v(26, 0);
+        for (int i = 0; i < s.size(); i++) {
+            v[s[i] - 'a']++;
+        }
         q.push("");
         while (!q.empty()) {
-            string curr = q.front(); q.pop();
+            string curr = q.front();
+            q.pop();
             for (char ch = 'a'; ch <= 'z'; ++ch) {
-                string next = curr + ch;
-                if (isK(next, s, k)) {
-                    result = next;
-                    q.push(next);
+                if (v[ch - 'a'] >= k) {
+                    string next = curr + ch;
+                    if (isK(next, s, k)) {
+                        result = next;
+                        q.push(next);
+                    }
                 }
             }
         }
@@ -23,7 +30,8 @@ public:
             if (ch == sub[i]) {
                 if (++i == sub.size()) {
                     i = 0;
-                    if (++count == k) return true;
+                    if (++count == k)
+                        return true;
                 }
             }
         }
