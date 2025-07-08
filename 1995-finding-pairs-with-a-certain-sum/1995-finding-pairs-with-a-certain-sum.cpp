@@ -7,7 +7,7 @@ public:
         int x = max(nums1.size(), nums2.size());
         int n = nums1.size();
         int m = nums2.size();
-        sort(nums1.begin(),nums1.end());
+        sort(nums1.begin(), nums1.end());
 
         for (int i = 0; i < x; i++) {
             if (i < n) {
@@ -41,8 +41,7 @@ public:
     int count(int tot) {
         int res = 0;
         for (int i = 0; i < a.size(); i++) {
-            if(tot-a[i]<0)
-            {
+            if (tot - a[i] < 0) {
                 return res;
             }
             if (mp.count(tot - a[i]) && mp[tot - a[i]] > 0) {
