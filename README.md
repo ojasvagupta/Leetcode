@@ -593,6 +593,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/ojasvagupta/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ojasvagupta/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ojasvagupta/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/ojasvagupta/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ojasvagupta/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ojasvagupta/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ojasvagupta/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -776,6 +777,7 @@
 | [1940-maximum-xor-for-each-query](https://github.com/ojasvagupta/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ojasvagupta/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ojasvagupta/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/ojasvagupta/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ojasvagupta/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/ojasvagupta/Leetcode/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/ojasvagupta/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -1301,6 +1303,7 @@
 | [0859-design-circular-deque](https://github.com/ojasvagupta/Leetcode/tree/master/0859-design-circular-deque) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ojasvagupta/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ojasvagupta/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/ojasvagupta/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2434-design-a-number-container-system](https://github.com/ojasvagupta/Leetcode/tree/master/2434-design-a-number-container-system) |
 ## Binary Search Tree
 |  |
