@@ -1458,4 +1458,8 @@
 | [2415-count-the-number-of-ideal-arrays](https://github.com/ojasvagupta/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3201-distribute-candies-among-children-ii](https://github.com/ojasvagupta/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/ojasvagupta/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/ojasvagupta/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
