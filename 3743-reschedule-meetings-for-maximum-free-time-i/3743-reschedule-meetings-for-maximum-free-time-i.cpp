@@ -1,29 +1,33 @@
 class Solution {
 public:
-    int maxFreeTime(int eventTime, int k, vector<int>& startTime,
-                    vector<int>& endTime) {
+    int maxFreeTime(int eventTime, int k, vector<int>& startTime, vector<int>& endTime) {
         int n = startTime.size();
-        vector<int> v;
-        v.push_back(startTime[0]);
-        for (int i = 0; i < n - 1; i++) {
-            v.push_back(startTime[i + 1]-endTime[i]);
-        }
-        if (endTime[n - 1] < eventTime) {
-              v.push_back(eventTime-endTime[n - 1]);
-        }
-        int left=0;
-        int maxFree = 0, currSum = 0;
-       for (int right = 0; right < v.size(); right++) {
-            currSum += v[right];
+        vector<int> gap(n + 1);
 
-            // Ensure window size does not exceed `k`
-            if (right - left > k) {
-                currSum -= v[left];
-                left++;
-            }
-
-            maxFree = max(maxFree, currSum);
+        // Calculate gaps between events
+        for (int i = 1; i < n; i++) {
+            gap[i] = startTime[i] - endTime[i - 1];
         }
-        return maxFree;
+        gap[0] = startTime[0]; // before first event
+        gap[n] = eventTime - endTime[n - 1]; // after last event
+
+        // Sliding window of size k + 1
+        int i = 0, j = k;
+        int maxa = 0, sum = 0;
+
+        // Initial window sum
+        for (int w = i; w <= n && w <= j; w++) {
+            sum += gap[w];
+        }
+        maxa = max(maxa, sum);
+
+        // Slide the window
+        while (j < n) {
+            sum -= gap[i++];
+            sum += gap[++j];
+            maxa = max(maxa, sum);
+        }
+
+        return maxa;
     }
 };
