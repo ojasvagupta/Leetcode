@@ -274,6 +274,7 @@
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ojasvagupta/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/ojasvagupta/Leetcode/tree/master/2502-sort-the-people) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ojasvagupta/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2577-count-palindromic-subsequences](https://github.com/ojasvagupta/Leetcode/tree/master/2577-count-palindromic-subsequences) |
 | [2580-circular-sentence](https://github.com/ojasvagupta/Leetcode/tree/master/2580-circular-sentence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ojasvagupta/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/ojasvagupta/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -1204,6 +1205,7 @@
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/ojasvagupta/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/ojasvagupta/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2562-count-ways-to-build-good-strings](https://github.com/ojasvagupta/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
+| [2577-count-palindromic-subsequences](https://github.com/ojasvagupta/Leetcode/tree/master/2577-count-palindromic-subsequences) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ojasvagupta/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/ojasvagupta/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/ojasvagupta/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
