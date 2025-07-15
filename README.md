@@ -1509,5 +1509,6 @@
 | [1908-recyclable-and-low-fat-products](https://github.com/ojasvagupta/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 | [1942-primary-department-for-each-employee](https://github.com/ojasvagupta/Leetcode/tree/master/1942-primary-department-for-each-employee) |
 | [2087-confirmation-rate](https://github.com/ojasvagupta/Leetcode/tree/master/2087-confirmation-rate) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/ojasvagupta/Leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/ojasvagupta/Leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
