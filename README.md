@@ -692,6 +692,7 @@
 | [0079-word-search](https://github.com/ojasvagupta/Leetcode/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ojasvagupta/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ojasvagupta/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/ojasvagupta/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/ojasvagupta/Leetcode/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ojasvagupta/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/ojasvagupta/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -1176,6 +1177,7 @@
 | [0070-climbing-stairs](https://github.com/ojasvagupta/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/ojasvagupta/Leetcode/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/ojasvagupta/Leetcode/tree/master/0097-interleaving-string) |
+| [0118-pascals-triangle](https://github.com/ojasvagupta/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/ojasvagupta/Leetcode/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ojasvagupta/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ojasvagupta/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
