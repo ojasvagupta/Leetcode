@@ -1092,6 +1092,7 @@
 | [0650-2-keys-keyboard](https://github.com/ojasvagupta/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/ojasvagupta/Leetcode/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/ojasvagupta/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [0826-soup-servings](https://github.com/ojasvagupta/Leetcode/tree/master/0826-soup-servings) |
 | [0870-magic-squares-in-grid](https://github.com/ojasvagupta/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/ojasvagupta/Leetcode/tree/master/1013-fibonacci-number) |
 | [1240-stone-game-ii](https://github.com/ojasvagupta/Leetcode/tree/master/1240-stone-game-ii) |
@@ -1196,6 +1197,7 @@
 | [0518-coin-change-ii](https://github.com/ojasvagupta/Leetcode/tree/master/0518-coin-change-ii) |
 | [0650-2-keys-keyboard](https://github.com/ojasvagupta/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0747-min-cost-climbing-stairs](https://github.com/ojasvagupta/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0826-soup-servings](https://github.com/ojasvagupta/Leetcode/tree/master/0826-soup-servings) |
 | [0868-push-dominoes](https://github.com/ojasvagupta/Leetcode/tree/master/0868-push-dominoes) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ojasvagupta/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/ojasvagupta/Leetcode/tree/master/1013-fibonacci-number) |
@@ -1529,4 +1531,8 @@
 | [2087-confirmation-rate](https://github.com/ojasvagupta/Leetcode/tree/master/2087-confirmation-rate) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/ojasvagupta/Leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/ojasvagupta/Leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/ojasvagupta/Leetcode/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
