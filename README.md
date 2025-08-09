@@ -355,6 +355,7 @@
 | [0137-single-number-ii](https://github.com/ojasvagupta/Leetcode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/ojasvagupta/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/ojasvagupta/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/ojasvagupta/Leetcode/tree/master/0231-power-of-two) |
 | [0476-number-complement](https://github.com/ojasvagupta/Leetcode/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ojasvagupta/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ojasvagupta/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -1084,6 +1085,7 @@
 | [0070-climbing-stairs](https://github.com/ojasvagupta/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ojasvagupta/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ojasvagupta/Leetcode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/ojasvagupta/Leetcode/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/ojasvagupta/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0368-largest-divisible-subset](https://github.com/ojasvagupta/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ojasvagupta/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -1151,6 +1153,7 @@
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/ojasvagupta/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0231-power-of-two](https://github.com/ojasvagupta/Leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/ojasvagupta/Leetcode/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/ojasvagupta/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ojasvagupta/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
