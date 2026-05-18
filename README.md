@@ -251,6 +251,7 @@
 | [1197-parsing-a-boolean-expression](https://github.com/ojasvagupta/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ojasvagupta/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ojasvagupta/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1436-destination-city](https://github.com/ojasvagupta/Leetcode/tree/master/1436-destination-city) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ojasvagupta/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ojasvagupta/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ojasvagupta/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -595,6 +596,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/ojasvagupta/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/ojasvagupta/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ojasvagupta/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1436-destination-city](https://github.com/ojasvagupta/Leetcode/tree/master/1436-destination-city) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ojasvagupta/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ojasvagupta/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1500-count-largest-group](https://github.com/ojasvagupta/Leetcode/tree/master/1500-count-largest-group) |
@@ -769,6 +771,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ojasvagupta/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/ojasvagupta/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ojasvagupta/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1436-destination-city](https://github.com/ojasvagupta/Leetcode/tree/master/1436-destination-city) |
 | [1470-shuffle-the-array](https://github.com/ojasvagupta/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ojasvagupta/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ojasvagupta/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
